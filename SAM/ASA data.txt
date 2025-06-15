@@ -1,0 +1,2404 @@
+2 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -1.00000 | Acceptance Rate 0.007
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -1.00000 | Acceptance Rate 0.000
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -1.00000 | Acceptance Rate 0.001
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -1.00000 | Acceptance Rate 0.000
+Best energy found: -1.00000
+Optimized Coordinates:
+ [[ 0.96102105 -0.1038215  -0.05701661]
+ [ 0.80144048  0.848307    0.51553616]]
+Final Potential Energy: -0.9999999543288676
+
+3 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -2.99663 | Acceptance Rate 0.037
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -2.99908 | Acceptance Rate 0.002
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -2.99908 | Acceptance Rate 0.000
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -2.99908 | Acceptance Rate 0.000
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -2.99947 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -2.99947 | Acceptance Rate 0.000
+Best energy found: -2.99947
+Optimized Coordinates:
+ [[ 0.43763884  1.18252579  0.02174219]
+ [-0.42855506  0.65329813  0.50559189]
+ [ 0.62751221  0.33003693  0.72373135]]
+Final Potential Energy: -2.9994686886479
+
+4 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -5.80949 | Acceptance Rate 0.042
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -5.96014 | Acceptance Rate 0.005
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -5.96014 | Acceptance Rate 0.000
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -5.97916 | Acceptance Rate 0.002
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -5.98616 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -5.98775 | Acceptance Rate 0.001
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -5.98775 | Acceptance Rate 0.000
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -5.98987 | Acceptance Rate 0.001
+Best energy found: -5.98987
+Optimized Coordinates:
+ [[-0.147636    1.11984286  0.21243991]
+ [ 0.97375612  1.07920538  0.29578116]
+ [ 0.45280464  0.5650976  -0.56092339]
+ [ 0.33929364  0.15094657  0.46932711]]
+Final Potential Energy: -5.989867895853857
+
+5 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -8.92824 | Acceptance Rate 0.033
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -9.02259 | Acceptance Rate 0.002
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -9.05339 | Acceptance Rate 0.001
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -9.05339 | Acceptance Rate 0.000
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -9.05339 | Acceptance Rate 0.000
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -9.06231 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -9.07623 | Acceptance Rate 0.002
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -9.07623 | Acceptance Rate 0.000
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -9.08696 | Acceptance Rate 0.001
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -9.08696 | Acceptance Rate 0.000
+Best energy found: -9.08696
+Optimized Coordinates:
+ [[-0.28540788 -0.13427384  0.96224389]
+ [ 0.78357143  0.21138013  1.04136036]
+ [ 1.02304837  0.81559199  0.12510001]
+ [ 0.34104793 -0.05268457  0.04581788]
+ [ 0.00873528  0.86845467  0.57609714]]
+Final Potential Energy: -9.086962649167468
+
+6 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -11.59754 | Acceptance Rate 0.064
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -11.86006 | Acceptance Rate 0.003
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -11.96270 | Acceptance Rate 0.002
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -12.14200 | Acceptance Rate 0.003
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -12.14535 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -12.18098 | Acceptance Rate 0.002
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -12.20473 | Acceptance Rate 0.001
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -12.23031 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -12.26242 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -12.26242 | Acceptance Rate 0.000
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -12.26242 | Acceptance Rate 0.000
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -12.26242 | Acceptance Rate 0.000
+Best energy found: -12.26242
+Optimized Coordinates:
+ [[-0.11341887  1.4720227   0.43211295]
+ [ 0.73971167 -0.02898792 -0.11162234]
+ [ 0.52272928 -0.1197834   1.00110765]
+ [ 0.79808571  0.86393799  0.58074319]
+ [-0.19991792  0.37053955  0.31671221]
+ [-0.03404026  0.80213793  1.33998912]]
+Final Potential Energy: -12.262417319869199
+
+7 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -13.28255 | Acceptance Rate 0.041
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -14.16302 | Acceptance Rate 0.005
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -14.59739 | Acceptance Rate 0.008
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -14.72246 | Acceptance Rate 0.002
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -15.31722 | Acceptance Rate 0.005
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -15.35661 | Acceptance Rate 0.001
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -15.41554 | Acceptance Rate 0.002
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -15.42172 | Acceptance Rate 0.001
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -15.48462 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -15.49803 | Acceptance Rate 0.002
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -15.50976 | Acceptance Rate 0.001
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -15.54632 | Acceptance Rate 0.002
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -15.54632 | Acceptance Rate 0.000
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -15.55186 | Acceptance Rate 0.002
+Best energy found: -15.55186
+Optimized Coordinates:
+ [[ 0.71292282  0.49770584  0.72782373]
+ [-0.40648576  0.4067296   0.57887405]
+ [ 0.23385153  0.74452248 -0.26987972]
+ [ 0.28571718 -0.31929105  0.09473219]
+ [ 0.14231853 -0.31346126  1.21135589]
+ [ 1.21053289  0.19802133 -0.24928929]
+ [ 0.07799354  1.39795101  0.62452423]]
+Final Potential Energy: -15.55186418383664
+
+8 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -18.01830 | Acceptance Rate 0.050
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -18.85670 | Acceptance Rate 0.003
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -19.30082 | Acceptance Rate 0.004
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -19.35289 | Acceptance Rate 0.001
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -19.45151 | Acceptance Rate 0.002
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -19.45151 | Acceptance Rate 0.000
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -19.45151 | Acceptance Rate 0.000
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -19.51458 | Acceptance Rate 0.002
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -19.57058 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -19.66974 | Acceptance Rate 0.003
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -19.69100 | Acceptance Rate 0.002
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -19.69279 | Acceptance Rate 0.001
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -19.71180 | Acceptance Rate 0.001
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -19.75504 | Acceptance Rate 0.003
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -19.77707 | Acceptance Rate 0.004
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -19.77707 | Acceptance Rate 0.000
+Best energy found: -19.77707
+Optimized Coordinates:
+ [[ 1.40055519  0.70532911  0.78270923]
+ [ 0.2849948   0.800867    0.74841166]
+ [ 0.89021426  1.05855876 -0.16375596]
+ [-0.08231765  0.48778702 -0.25474643]
+ [ 0.81484069  0.92243402  1.72184178]
+ [ 0.84114689 -0.00994302  0.14609918]
+ [ 0.73390531 -0.07463576  1.25751462]
+ [-0.14743331 -0.22934833  0.59872209]]
+Final Potential Energy: -19.77706625809942
+
+9 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -21.32119 | Acceptance Rate 0.051
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -21.70859 | Acceptance Rate 0.002
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -23.09982 | Acceptance Rate 0.007
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -23.16656 | Acceptance Rate 0.001
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -23.25737 | Acceptance Rate 0.002
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -23.53944 | Acceptance Rate 0.004
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -23.61809 | Acceptance Rate 0.002
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -23.79242 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -23.85277 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -23.87878 | Acceptance Rate 0.002
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -23.92519 | Acceptance Rate 0.001
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -23.94849 | Acceptance Rate 0.001
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -23.98002 | Acceptance Rate 0.004
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -24.03573 | Acceptance Rate 0.002
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -24.06755 | Acceptance Rate 0.002
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -24.06755 | Acceptance Rate 0.000
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -24.06755 | Acceptance Rate 0.000
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -24.08828 | Acceptance Rate 0.002
+Best energy found: -24.08828
+Optimized Coordinates:
+ [[ 1.62383706  0.06741413  0.26666039]
+ [ 1.02074852  0.02055378  1.21153544]
+ [ 0.15560914  1.12294097  0.05400394]
+ [ 0.14678224  0.71377494  1.0974056 ]
+ [ 1.10497707  0.75500671 -0.46149001]
+ [ 1.11145688  0.97332351  0.63369898]
+ [-0.02545638 -0.3950696   1.0577265 ]
+ [ 0.52633675  0.08819606  0.22065222]
+ [-0.55899983  0.30147839  0.33921531]]
+Final Potential Energy: -24.08828137110554
+
+10 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -22.36479 | Acceptance Rate 0.063
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -23.77951 | Acceptance Rate 0.005
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -24.28504 | Acceptance Rate 0.003
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -24.49428 | Acceptance Rate 0.002
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -24.97445 | Acceptance Rate 0.002
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -25.59848 | Acceptance Rate 0.006
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -25.59848 | Acceptance Rate 0.000
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -26.00403 | Acceptance Rate 0.006
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -26.08026 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -26.18046 | Acceptance Rate 0.003
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -26.35660 | Acceptance Rate 0.003
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -26.38719 | Acceptance Rate 0.001
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -26.38719 | Acceptance Rate 0.000
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -26.49250 | Acceptance Rate 0.008
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -26.56624 | Acceptance Rate 0.005
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -26.66355 | Acceptance Rate 0.006
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -26.70226 | Acceptance Rate 0.003
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -27.05829 | Acceptance Rate 0.027
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -27.11890 | Acceptance Rate 0.009
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -27.12429 | Acceptance Rate 0.003
+Best energy found: -27.12429
+Optimized Coordinates:
+ [[ 0.92931388  1.56285831  0.34821988]
+ [ 0.28071559  0.71656361  0.67937834]
+ [ 1.07817727  0.58745948 -0.14129743]
+ [ 0.71758796  1.47014088  1.4291312 ]
+ [ 1.31808377 -0.33086408  0.43514316]
+ [ 0.58293199  0.44120033  1.77498961]
+ [ 0.39330955 -0.33212136  1.03460684]
+ [ 1.32868254  0.65065513  0.96129701]
+ [ 1.38998614 -0.30006644  1.54922423]
+ [ 0.29572839 -0.1732341  -0.04506796]]
+Final Potential Energy: -27.124286534144055
+
+11 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -25.81365 | Acceptance Rate 0.070
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -26.56764 | Acceptance Rate 0.005
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -28.04642 | Acceptance Rate 0.011
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -28.29440 | Acceptance Rate 0.002
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -28.37460 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -30.32442 | Acceptance Rate 0.013
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -31.02047 | Acceptance Rate 0.009
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -31.52272 | Acceptance Rate 0.005
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -31.83109 | Acceptance Rate 0.005
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -31.93873 | Acceptance Rate 0.003
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -32.32914 | Acceptance Rate 0.009
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -32.47700 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -32.53189 | Acceptance Rate 0.002
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -32.54386 | Acceptance Rate 0.002
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -32.61785 | Acceptance Rate 0.002
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -32.61785 | Acceptance Rate 0.000
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -32.63196 | Acceptance Rate 0.001
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -32.64463 | Acceptance Rate 0.003
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -32.66773 | Acceptance Rate 0.002
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -32.69780 | Acceptance Rate 0.005
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -32.70446 | Acceptance Rate 0.002
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -32.72687 | Acceptance Rate 0.006
+Best energy found: -32.72687
+Optimized Coordinates:
+ [[ 0.93832522 -0.31161533  0.27468382]
+ [-0.08306977 -0.02557507 -0.18122085]
+ [ 1.61991115  0.60678156  0.41837882]
+ [ 1.11390001  1.56888713  0.03092693]
+ [ 0.13898179  1.67091236  0.62680597]
+ [ 1.09001073  1.30855029  1.12300574]
+ [ 0.0091248  -0.1352621   0.91006891]
+ [-0.55361262  0.75870138  0.50298648]
+ [ 1.01633872  0.21030855  1.26490782]
+ [ 0.53378555  0.69523559  0.3734152 ]
+ [ 0.11408919  0.85941329  1.38507157]]
+Final Potential Energy: -32.726865084461
+
+12 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -26.32440 | Acceptance Rate 0.054
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -29.58531 | Acceptance Rate 0.011
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -31.55426 | Acceptance Rate 0.007
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -31.90708 | Acceptance Rate 0.002
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -32.40409 | Acceptance Rate 0.002
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -32.41704 | Acceptance Rate 0.001
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -32.85882 | Acceptance Rate 0.002
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -33.04584 | Acceptance Rate 0.002
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -33.12201 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -33.74147 | Acceptance Rate 0.008
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -34.30357 | Acceptance Rate 0.008
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -34.99183 | Acceptance Rate 0.010
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -35.18453 | Acceptance Rate 0.002
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -35.78599 | Acceptance Rate 0.017
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -35.89400 | Acceptance Rate 0.002
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -36.05008 | Acceptance Rate 0.006
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -36.05008 | Acceptance Rate 0.000
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -36.06213 | Acceptance Rate 0.002
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -36.07253 | Acceptance Rate 0.002
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -36.08013 | Acceptance Rate 0.001
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -36.10132 | Acceptance Rate 0.003
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -36.10735 | Acceptance Rate 0.002
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -36.12334 | Acceptance Rate 0.003
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -36.12638 | Acceptance Rate 0.001
+Best energy found: -36.12638
+Optimized Coordinates:
+ [[ 1.23137787  1.50391331  0.80930712]
+ [ 0.1917277  -0.28893822  0.04933939]
+ [ 0.43272696  1.60533154  0.01610471]
+ [ 1.79988193  0.53618437  0.62194508]
+ [-0.30804414  0.74407164  0.17903967]
+ [ 1.47688082  1.22143495 -0.23837961]
+ [-0.82908916 -0.18932841  0.48976423]
+ [ 1.01534409  0.59820942  1.4171697 ]
+ [ 0.07553073  0.13159428  1.05906334]
+ [ 1.06194669 -0.3316973   0.77840673]
+ [ 0.75515236  0.61376283  0.33031853]
+ [ 0.18090915  1.24640896  1.04390272]]
+Final Potential Energy: -36.12637736973105
+
+13 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -29.60041 | Acceptance Rate 0.071
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -32.33178 | Acceptance Rate 0.008
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -33.08869 | Acceptance Rate 0.004
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -34.04071 | Acceptance Rate 0.006
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -34.92872 | Acceptance Rate 0.005
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -37.69219 | Acceptance Rate 0.016
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -38.89253 | Acceptance Rate 0.006
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -40.11710 | Acceptance Rate 0.011
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -40.60321 | Acceptance Rate 0.005
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -40.60321 | Acceptance Rate 0.000
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -40.95719 | Acceptance Rate 0.004
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -41.12264 | Acceptance Rate 0.004
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -41.17427 | Acceptance Rate 0.002
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -41.17427 | Acceptance Rate 0.000
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -41.17766 | Acceptance Rate 0.002
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -41.23896 | Acceptance Rate 0.003
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -41.34264 | Acceptance Rate 0.006
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -41.36817 | Acceptance Rate 0.001
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -41.36817 | Acceptance Rate 0.000
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -41.37852 | Acceptance Rate 0.003
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -41.40428 | Acceptance Rate 0.006
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -41.41266 | Acceptance Rate 0.001
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -41.41478 | Acceptance Rate 0.002
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -41.42672 | Acceptance Rate 0.004
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -41.42791 | Acceptance Rate 0.002
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -41.44507 | Acceptance Rate 0.007
+Best energy found: -41.44507
+Optimized Coordinates:
+ [[ 0.93238263  0.28781232 -0.54746059]
+ [ 1.25540356 -0.0426072   1.2377953 ]
+ [ 0.76992818  0.57674933  0.50262145]
+ [-0.03636009  0.05583282 -0.02645414]
+ [ 0.57271663  1.62391625  0.67447381]
+ [ 0.22992157  1.11986204 -0.27393021]
+ [-0.83554327  0.799348   -0.22225448]
+ [ 0.88910441 -0.49000055  0.27885083]
+ [ 1.75282628  0.22392674  0.22747016]
+ [-0.25813003  0.87651229  0.7250512 ]
+ [ 0.14413818 -0.12544057  1.05621602]
+ [ 1.34723171  1.25202256 -0.10914247]
+ [ 0.52751225  0.83183245  1.52250962]]
+Final Potential Energy: -41.44506578549212
+
+14 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -32.41215 | Acceptance Rate 0.069
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -33.38937 | Acceptance Rate 0.003
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -36.13465 | Acceptance Rate 0.008
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -36.46997 | Acceptance Rate 0.001
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -36.52929 | Acceptance Rate 0.003
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -37.16917 | Acceptance Rate 0.004
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -38.35712 | Acceptance Rate 0.009
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -39.01388 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -39.10691 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -39.29489 | Acceptance Rate 0.004
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -39.62068 | Acceptance Rate 0.007
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -39.87237 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -40.75627 | Acceptance Rate 0.012
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -41.44059 | Acceptance Rate 0.016
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -42.75904 | Acceptance Rate 0.021
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -42.92830 | Acceptance Rate 0.004
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -42.98163 | Acceptance Rate 0.005
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -43.02968 | Acceptance Rate 0.001
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -43.10765 | Acceptance Rate 0.007
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -43.20581 | Acceptance Rate 0.008
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -43.22256 | Acceptance Rate 0.004
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -43.28041 | Acceptance Rate 0.009
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -43.33393 | Acceptance Rate 0.006
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -43.33945 | Acceptance Rate 0.002
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -43.36506 | Acceptance Rate 0.008
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -43.36506 | Acceptance Rate 0.000
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -43.37278 | Acceptance Rate 0.003
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -43.37278 | Acceptance Rate 0.000
+Best energy found: -43.37278
+Optimized Coordinates:
+ [[ 0.79218117  1.25429061 -0.59307248]
+ [ 1.47801403  0.52871473 -0.06103612]
+ [-0.09047971  0.5718823   0.85452016]
+ [-0.14967052  1.67987737  0.94310863]
+ [ 0.4075096   0.32441477 -0.12394337]
+ [ 0.06579374 -0.48026531  0.51698303]
+ [ 1.08016083 -0.54117357  0.01731737]
+ [ 0.93988244  0.16876241  0.84866201]
+ [ 0.20404576 -0.21684863  1.58570783]
+ [ 1.74540661  0.93231158  0.94300678]
+ [-0.68098694  0.18314668 -0.00266631]
+ [ 0.92412787 -0.91756377  1.06329298]
+ [-0.21332753  1.22114152 -0.06561663]
+ [ 0.75614784  1.1992033   0.50835497]]
+Final Potential Energy: -43.37278098701092
+
+15 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -34.64930 | Acceptance Rate 0.072
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -36.35550 | Acceptance Rate 0.009
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -37.37386 | Acceptance Rate 0.006
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -38.73820 | Acceptance Rate 0.004
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -41.26538 | Acceptance Rate 0.007
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -41.89824 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -42.27709 | Acceptance Rate 0.005
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -42.77425 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -42.98413 | Acceptance Rate 0.006
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -43.17672 | Acceptance Rate 0.004
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -43.30119 | Acceptance Rate 0.002
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -43.73075 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -43.99207 | Acceptance Rate 0.006
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -44.28596 | Acceptance Rate 0.007
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -45.03176 | Acceptance Rate 0.012
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -45.77396 | Acceptance Rate 0.019
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -46.18180 | Acceptance Rate 0.016
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -46.38945 | Acceptance Rate 0.015
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -46.56316 | Acceptance Rate 0.012
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -46.57834 | Acceptance Rate 0.003
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -46.66328 | Acceptance Rate 0.006
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -46.69420 | Acceptance Rate 0.004
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -46.69954 | Acceptance Rate 0.001
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -46.71683 | Acceptance Rate 0.003
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -46.73720 | Acceptance Rate 0.005
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -46.74291 | Acceptance Rate 0.001
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -46.74617 | Acceptance Rate 0.003
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -46.75479 | Acceptance Rate 0.003
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -46.75981 | Acceptance Rate 0.001
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -46.76278 | Acceptance Rate 0.001
+Best energy found: -46.76278
+Optimized Coordinates:
+ [[ 0.02234915  0.25785129  1.55920701]
+ [-0.18611655  0.69963578  0.5581975 ]
+ [ 1.10706437 -0.09995739  1.55373107]
+ [ 1.55370766  0.22511514  0.55969088]
+ [-0.15030621  1.14701182 -0.45467498]
+ [ 1.03557754 -0.32302241 -0.30901961]
+ [ 0.400024    1.64034425  0.42092839]
+ [-0.08560894  1.38707142  1.41600362]
+ [ 0.50280519 -0.1408593   0.6405902 ]
+ [ 0.76638449  0.70756272 -0.03985949]
+ [ 0.80945409  0.84965753  1.07698385]
+ [ 2.10601762 -0.49823908 -0.07828851]
+ [ 0.22499223 -1.01581936  0.02794566]
+ [-0.04499397  0.02270319 -0.32097406]
+ [ 1.51964531  1.36263012  0.41528891]]
+Final Potential Energy: -46.7627752129567
+
+16 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -32.48380 | Acceptance Rate 0.085
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -36.73643 | Acceptance Rate 0.013
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -40.61326 | Acceptance Rate 0.010
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -45.10114 | Acceptance Rate 0.009
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -47.56069 | Acceptance Rate 0.005
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -47.99572 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -48.30457 | Acceptance Rate 0.003
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -48.98690 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -49.76035 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -49.96192 | Acceptance Rate 0.001
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -50.14769 | Acceptance Rate 0.003
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -50.56416 | Acceptance Rate 0.007
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -51.06322 | Acceptance Rate 0.008
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -51.42747 | Acceptance Rate 0.007
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -51.65581 | Acceptance Rate 0.003
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -51.94149 | Acceptance Rate 0.009
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -52.27269 | Acceptance Rate 0.011
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -52.44379 | Acceptance Rate 0.007
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -52.47014 | Acceptance Rate 0.002
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -52.58452 | Acceptance Rate 0.007
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -52.67964 | Acceptance Rate 0.006
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -52.90733 | Acceptance Rate 0.019
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -53.07266 | Acceptance Rate 0.018
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -53.21912 | Acceptance Rate 0.019
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -53.35757 | Acceptance Rate 0.018
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -53.44708 | Acceptance Rate 0.016
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -53.53141 | Acceptance Rate 0.020
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -53.78272 | Acceptance Rate 0.037
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -54.28724 | Acceptance Rate 0.093
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -54.69746 | Acceptance Rate 0.082
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -54.89027 | Acceptance Rate 0.058
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -54.96685 | Acceptance Rate 0.030
+Best energy found: -54.96685
+Optimized Coordinates:
+ [[ 0.86292037  0.48669056 -0.67840322]
+ [ 1.35431702  0.10804176  0.26592865]
+ [-0.46144226  0.2240814   0.57208236]
+ [ 1.18539948  0.86865304  1.09399714]
+ [-0.25844044  0.57490965 -0.49116533]
+ [ 0.74938872  1.67006906  1.74229383]
+ [ 0.3989062   1.50286118 -0.43783466]
+ [ 0.46226671  0.7158245   0.3036521 ]
+ [ 0.54874095 -0.06849281  1.03966303]
+ [ 0.32973884 -0.29241304 -0.05608354]
+ [ 0.06408131  0.93261596  1.27577152]
+ [ 1.03044014 -0.92781835  0.51800329]
+ [-0.42139047  1.33791486  0.34363076]
+ [ 1.3869148   1.21208514  0.03314004]
+ [ 0.59110904  1.73272082  0.64474993]
+ [-0.37195685 -0.03429367  1.64698363]]
+Final Potential Energy: -54.96685083208029
+
+17 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -32.42091 | Acceptance Rate 0.084
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -42.77969 | Acceptance Rate 0.005
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -45.66207 | Acceptance Rate 0.005
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -46.85042 | Acceptance Rate 0.004
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -47.53598 | Acceptance Rate 0.002
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -47.76679 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -47.81749 | Acceptance Rate 0.001
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -48.68216 | Acceptance Rate 0.006
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -49.45882 | Acceptance Rate 0.007
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -50.04873 | Acceptance Rate 0.004
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -50.17152 | Acceptance Rate 0.002
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -51.37873 | Acceptance Rate 0.015
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -52.11304 | Acceptance Rate 0.008
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -52.44812 | Acceptance Rate 0.004
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -52.85135 | Acceptance Rate 0.007
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -53.46158 | Acceptance Rate 0.019
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -54.04109 | Acceptance Rate 0.010
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -54.56332 | Acceptance Rate 0.019
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -54.95894 | Acceptance Rate 0.018
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -55.31546 | Acceptance Rate 0.013
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -55.46284 | Acceptance Rate 0.011
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -55.57722 | Acceptance Rate 0.008
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -55.61249 | Acceptance Rate 0.005
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -55.74083 | Acceptance Rate 0.014
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -55.75463 | Acceptance Rate 0.004
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -55.76911 | Acceptance Rate 0.003
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -55.80222 | Acceptance Rate 0.005
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -55.82553 | Acceptance Rate 0.008
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -55.85499 | Acceptance Rate 0.012
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -55.91438 | Acceptance Rate 0.019
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -56.32222 | Acceptance Rate 0.075
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -57.59172 | Acceptance Rate 0.170
+Iter  33000 | Temp 0.30903 | Step size 0.00172 | Best Energy -59.12882 | Acceptance Rate 0.209
+Iter  34000 | Temp 0.27813 | Step size 0.00155 | Best Energy -59.43169 | Acceptance Rate 0.087
+Best energy found: -59.43169
+Optimized Coordinates:
+ [[ 1.27552843  1.04678139 -0.5549171 ]
+ [-0.4173021   0.40688819  1.42344813]
+ [ 0.34772026  1.37409391  0.08422075]
+ [ 1.1899121  -0.08389806 -0.66961004]
+ [-0.23432792  0.45744679  0.33586755]
+ [ 0.41764632 -0.20236405  0.98724946]
+ [ 0.25490957 -0.42981225 -0.13056743]
+ [ 1.29599734 -0.54815261  0.36178773]
+ [ 0.83816181  0.42159935  0.21422056]
+ [ 0.26733073  0.57300964 -0.69313607]
+ [ 1.14682945  2.08715147 -0.19299191]
+ [ 1.39948093  1.28252255  0.53732412]
+ [-0.47002802  1.39721352  0.85309839]
+ [ 1.43332532  0.28692099  1.11230252]
+ [ 1.91075528  0.38071515  0.08316196]
+ [ 0.50065269  0.92419774  1.10209339]
+ [-0.68893274  0.0348891  -0.57380509]]
+Final Potential Energy: -59.43169374945256
+
+18 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy -35.83251 | Acceptance Rate 0.091
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -46.10304 | Acceptance Rate 0.011
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -48.00470 | Acceptance Rate 0.004
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -49.11152 | Acceptance Rate 0.004
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -49.85876 | Acceptance Rate 0.006
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -51.90387 | Acceptance Rate 0.008
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -53.35963 | Acceptance Rate 0.007
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -54.56720 | Acceptance Rate 0.006
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -56.72714 | Acceptance Rate 0.011
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -56.96431 | Acceptance Rate 0.004
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -57.50148 | Acceptance Rate 0.005
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -57.99401 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -60.07952 | Acceptance Rate 0.017
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -61.38628 | Acceptance Rate 0.015
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -62.26136 | Acceptance Rate 0.016
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -62.98788 | Acceptance Rate 0.015
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -63.37648 | Acceptance Rate 0.006
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -63.91567 | Acceptance Rate 0.018
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -64.28381 | Acceptance Rate 0.015
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -64.43347 | Acceptance Rate 0.007
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -64.62510 | Acceptance Rate 0.011
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -64.71763 | Acceptance Rate 0.010
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -64.78550 | Acceptance Rate 0.006
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -64.81782 | Acceptance Rate 0.005
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -64.87701 | Acceptance Rate 0.004
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -64.88028 | Acceptance Rate 0.001
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -64.89825 | Acceptance Rate 0.003
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -64.90165 | Acceptance Rate 0.003
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -64.90879 | Acceptance Rate 0.003
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -64.91883 | Acceptance Rate 0.004
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -64.92394 | Acceptance Rate 0.001
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -64.92556 | Acceptance Rate 0.001
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -64.92610 | Acceptance Rate 0.002
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -64.93096 | Acceptance Rate 0.005
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -64.93294 | Acceptance Rate 0.002
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -64.93310 | Acceptance Rate 0.001
+Best energy found: -64.93310
+Optimized Coordinates:
+ [[ 1.42141492 -0.08290877  1.35687581]
+ [ 1.01576493  0.68187848  0.71381828]
+ [ 2.02615415  0.82644325  1.06156557]
+ [ 0.60930974  1.46286592  0.08580607]
+ [ 0.71684958 -0.34670479  0.51422697]
+ [ 0.91040081  0.02879463  2.34062931]
+ [ 1.76364517  0.04115046  0.27856055]
+ [-0.06347797  0.97283412 -0.6398307 ]
+ [ 1.31062163  1.70488233  0.92769447]
+ [ 0.8966092   0.43500074 -0.33430989]
+ [ 1.13805592  0.95151098  1.75352907]
+ [ 0.02999451  0.50330148  0.3467461 ]
+ [ 1.70156178  1.14652735  0.01968858]
+ [-0.66556152  0.68415842  1.1616612 ]
+ [-0.48813297  1.45956423  0.31811607]
+ [ 0.25350018  1.31970894  1.14139207]
+ [ 0.32885148  0.23660628  1.41721701]
+ [-0.37481928 -0.38373351  0.84186269]]
+Final Potential Energy: -64.93309941471111
+
+19 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 691.24265 | Acceptance Rate 0.061
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -40.56616 | Acceptance Rate 0.035
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -46.13873 | Acceptance Rate 0.009
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -47.27814 | Acceptance Rate 0.003
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -49.53067 | Acceptance Rate 0.007
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -49.54206 | Acceptance Rate 0.001
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -49.54206 | Acceptance Rate 0.000
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -51.82177 | Acceptance Rate 0.012
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -51.87862 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -52.31089 | Acceptance Rate 0.005
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -52.94358 | Acceptance Rate 0.010
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -53.70895 | Acceptance Rate 0.011
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -53.94297 | Acceptance Rate 0.006
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -54.37831 | Acceptance Rate 0.006
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -54.53131 | Acceptance Rate 0.005
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -54.81444 | Acceptance Rate 0.008
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -55.24195 | Acceptance Rate 0.008
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -55.42471 | Acceptance Rate 0.009
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -55.92547 | Acceptance Rate 0.015
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -56.15249 | Acceptance Rate 0.015
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -56.74620 | Acceptance Rate 0.035
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -57.15400 | Acceptance Rate 0.024
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -57.97582 | Acceptance Rate 0.044
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -58.36909 | Acceptance Rate 0.033
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -58.82160 | Acceptance Rate 0.035
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -59.04833 | Acceptance Rate 0.022
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -59.50219 | Acceptance Rate 0.057
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -59.89273 | Acceptance Rate 0.055
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -60.43487 | Acceptance Rate 0.072
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -60.84603 | Acceptance Rate 0.067
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -63.13312 | Acceptance Rate 0.194
+Iter  32000 | Temp 0.34337 | Step size 0.00191 | Best Energy -65.41556 | Acceptance Rate 0.238
+Iter  33000 | Temp 0.30903 | Step size 0.00191 | Best Energy -68.05221 | Acceptance Rate 0.215
+Iter  34000 | Temp 0.27813 | Step size 0.00172 | Best Energy -69.65265 | Acceptance Rate 0.187
+Iter  35000 | Temp 0.25032 | Step size 0.00155 | Best Energy -70.32394 | Acceptance Rate 0.115
+Iter  36000 | Temp 0.22528 | Step size 0.00139 | Best Energy -70.35544 | Acceptance Rate 0.020
+Iter  37000 | Temp 0.20276 | Step size 0.00125 | Best Energy -70.36864 | Acceptance Rate 0.008
+Iter  38000 | Temp 0.18248 | Step size 0.00113 | Best Energy -70.37032 | Acceptance Rate 0.002
+Best energy found: -70.37032
+Optimized Coordinates:
+ [[ 0.87161586 -0.78453084  0.50092712]
+ [-0.556253    0.82801923  0.19380127]
+ [ 0.66973325 -0.42538624 -0.57082535]
+ [ 0.82481297  0.09003938  1.18253027]
+ [ 1.47136694  0.99066112  0.93436904]
+ [-0.03461454 -0.64352398  1.19521428]
+ [ 0.79806209  1.89868276  0.80573159]
+ [ 1.18344252  1.34245375 -0.11307588]
+ [ 0.57448448  1.13265818  1.61546529]
+ [-0.94504107 -0.11259313  0.6714065 ]
+ [ 0.35788914  0.67136881 -0.49894789]
+ [-1.18294983  0.92950603  1.10932203]
+ [-0.21464783  0.44734647  1.2469671 ]
+ [-0.50210474  1.1997576   1.99403132]
+ [-0.26936954  1.56707581  0.9833499 ]
+ [ 0.46490555  0.9035499   0.55834504]
+ [ 0.0868941  -0.0608533   0.28504356]
+ [ 0.10717673  1.69908928 -0.07879308]
+ [ 1.19783044  0.23204112  0.13678346]]
+Final Potential Energy: -70.37031920053944
+
+20 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 4428.95858 | Acceptance Rate 0.052
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -46.78129 | Acceptance Rate 0.050
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -56.18606 | Acceptance Rate 0.013
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -57.93005 | Acceptance Rate 0.003
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -58.42934 | Acceptance Rate 0.004
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -60.85434 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -61.34319 | Acceptance Rate 0.003
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -61.55481 | Acceptance Rate 0.002
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -62.83781 | Acceptance Rate 0.008
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -63.81092 | Acceptance Rate 0.005
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -64.66791 | Acceptance Rate 0.011
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -64.80484 | Acceptance Rate 0.004
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -65.23293 | Acceptance Rate 0.007
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -65.89004 | Acceptance Rate 0.010
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -66.84065 | Acceptance Rate 0.011
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -67.69169 | Acceptance Rate 0.017
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -69.28175 | Acceptance Rate 0.025
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -71.32791 | Acceptance Rate 0.037
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -73.38846 | Acceptance Rate 0.040
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -73.97155 | Acceptance Rate 0.021
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -74.22858 | Acceptance Rate 0.011
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -74.35028 | Acceptance Rate 0.008
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -74.54250 | Acceptance Rate 0.009
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -74.62133 | Acceptance Rate 0.010
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -74.63796 | Acceptance Rate 0.003
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -74.68913 | Acceptance Rate 0.010
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -74.70103 | Acceptance Rate 0.005
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -74.72160 | Acceptance Rate 0.006
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -74.74480 | Acceptance Rate 0.007
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -74.76547 | Acceptance Rate 0.007
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -74.77463 | Acceptance Rate 0.006
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -74.78295 | Acceptance Rate 0.007
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -74.79050 | Acceptance Rate 0.007
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -74.79681 | Acceptance Rate 0.006
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -74.79937 | Acceptance Rate 0.004
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -74.80224 | Acceptance Rate 0.004
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -74.80535 | Acceptance Rate 0.008
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -74.81163 | Acceptance Rate 0.007
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -74.81220 | Acceptance Rate 0.003
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -74.81265 | Acceptance Rate 0.002
+Best energy found: -74.81265
+Optimized Coordinates:
+ [[ 0.76749421 -0.227229   -0.51465461]
+ [ 0.06222422 -0.86799374  0.12446195]
+ [-0.75148713 -0.1995632   0.54944867]
+ [ 1.10045617  1.5613466  -0.17172509]
+ [ 1.40132681  1.31902639  0.94632187]
+ [-0.36776049 -0.02519286 -0.51595   ]
+ [ 0.8859004   0.35697636  1.20251799]
+ [ 1.05815497 -0.53071734  0.53751109]
+ [ 0.37039433  0.80342271 -0.48973301]
+ [ 0.27429645  0.21572719  2.10431663]
+ [ 0.50193397  1.26038039  1.67990452]
+ [ 1.24885831  0.52416713  0.18135217]
+ [-0.26774613  0.57874329  1.21777816]
+ [ 1.37357508  0.67982573 -0.89831642]
+ [ 0.38815844  1.20112958  0.57939091]
+ [ 0.13685443 -0.48114276  1.21296977]
+ [ 0.24659063  0.16492511  0.35778505]
+ [-0.5749418   0.85297984  0.16991574]
+ [-0.61197106  1.01546144 -0.9190146 ]
+ [-0.05985817  1.77250491 -0.25153333]]
+Final Potential Energy: -74.81265023638525
+
+21 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 565.65499 | Acceptance Rate 0.070
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -56.60644 | Acceptance Rate 0.031
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -59.36150 | Acceptance Rate 0.004
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -59.84833 | Acceptance Rate 0.003
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -60.01618 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -62.27349 | Acceptance Rate 0.006
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -63.37583 | Acceptance Rate 0.007
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -64.55412 | Acceptance Rate 0.007
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -65.53331 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -66.74561 | Acceptance Rate 0.007
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -68.18291 | Acceptance Rate 0.013
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -69.25734 | Acceptance Rate 0.009
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -69.48540 | Acceptance Rate 0.006
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -70.11799 | Acceptance Rate 0.010
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -71.20105 | Acceptance Rate 0.013
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -71.94919 | Acceptance Rate 0.013
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -73.40256 | Acceptance Rate 0.020
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -74.09927 | Acceptance Rate 0.014
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -74.59813 | Acceptance Rate 0.015
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -75.04405 | Acceptance Rate 0.015
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -75.53866 | Acceptance Rate 0.019
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -75.98240 | Acceptance Rate 0.019
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -76.15414 | Acceptance Rate 0.015
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -76.36103 | Acceptance Rate 0.014
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -76.51839 | Acceptance Rate 0.016
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -76.59500 | Acceptance Rate 0.010
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -76.61307 | Acceptance Rate 0.004
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -76.69278 | Acceptance Rate 0.018
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -76.70373 | Acceptance Rate 0.006
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -76.71274 | Acceptance Rate 0.004
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -76.75245 | Acceptance Rate 0.013
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -76.77436 | Acceptance Rate 0.011
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -76.79297 | Acceptance Rate 0.008
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -76.82751 | Acceptance Rate 0.017
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -76.86072 | Acceptance Rate 0.020
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -76.96727 | Acceptance Rate 0.062
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -77.04705 | Acceptance Rate 0.052
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -77.13499 | Acceptance Rate 0.074
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -77.14938 | Acceptance Rate 0.025
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -77.16400 | Acceptance Rate 0.026
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -77.17079 | Acceptance Rate 0.018
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -77.17311 | Acceptance Rate 0.008
+Best energy found: -77.17311
+Optimized Coordinates:
+ [[ 0.88575153 -0.10697525  1.28779549]
+ [ 0.97014936  0.1804101  -0.51154451]
+ [ 1.71976125  0.99237025 -0.43072222]
+ [ 1.14628166 -0.55768635  0.30494489]
+ [-0.35926599  1.49781742 -0.19379322]
+ [ 1.07783799  1.47178051  0.94085675]
+ [ 1.66105612  0.71037218  1.50817223]
+ [-0.63977749 -0.38362084  0.24019739]
+ [ 0.24851827 -0.62913944 -0.33659283]
+ [ 0.18506981 -0.80835563  0.80808745]
+ [ 0.55932947  0.83857853  1.699883  ]
+ [-0.1487503   0.43987345 -0.53851617]
+ [-0.78928696  0.66193531  0.37743423]
+ [ 1.33532602  0.50835551  0.49293996]
+ [-0.26210891  0.15985107  1.27997767]
+ [ 0.31392202  0.20852033  0.3899037 ]
+ [ 1.43022078  1.95654742  0.02268658]
+ [ 2.02388707 -0.03887484 -0.1489785 ]
+ [ 2.11688347  1.25511833  0.58981389]
+ [ 0.67030769  1.14745895 -0.08397967]
+ [ 0.03499476  1.18929387  0.81422854]]
+Final Potential Energy: -77.17310580233196
+
+22 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 23337.03619 | Acceptance Rate 0.043
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -54.70356 | Acceptance Rate 0.052
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -61.97099 | Acceptance Rate 0.006
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -62.70496 | Acceptance Rate 0.001
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -63.54919 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -64.37443 | Acceptance Rate 0.002
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -65.68151 | Acceptance Rate 0.006
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -67.28842 | Acceptance Rate 0.005
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -68.69241 | Acceptance Rate 0.008
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -70.35001 | Acceptance Rate 0.009
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -71.11190 | Acceptance Rate 0.010
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -71.95794 | Acceptance Rate 0.007
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -72.38186 | Acceptance Rate 0.006
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -73.19778 | Acceptance Rate 0.011
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -74.04744 | Acceptance Rate 0.013
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -74.21802 | Acceptance Rate 0.002
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -74.46053 | Acceptance Rate 0.005
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -74.88775 | Acceptance Rate 0.010
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -75.45210 | Acceptance Rate 0.009
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -75.72886 | Acceptance Rate 0.012
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -75.88602 | Acceptance Rate 0.008
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -75.97955 | Acceptance Rate 0.008
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -76.30492 | Acceptance Rate 0.019
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -76.43642 | Acceptance Rate 0.006
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -76.83599 | Acceptance Rate 0.035
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -77.10829 | Acceptance Rate 0.032
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -77.36499 | Acceptance Rate 0.027
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -77.61105 | Acceptance Rate 0.032
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -77.84030 | Acceptance Rate 0.034
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -78.11042 | Acceptance Rate 0.051
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -78.35630 | Acceptance Rate 0.050
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -78.95774 | Acceptance Rate 0.105
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -80.05996 | Acceptance Rate 0.160
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -80.41787 | Acceptance Rate 0.089
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -80.75224 | Acceptance Rate 0.098
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -81.02017 | Acceptance Rate 0.096
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -81.22801 | Acceptance Rate 0.103
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -81.43695 | Acceptance Rate 0.100
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -81.54805 | Acceptance Rate 0.073
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -81.63522 | Acceptance Rate 0.076
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -81.70263 | Acceptance Rate 0.080
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -81.76714 | Acceptance Rate 0.085
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -81.80321 | Acceptance Rate 0.067
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -81.82415 | Acceptance Rate 0.060
+Best energy found: -81.82415
+Optimized Coordinates:
+ [[ 0.70423693  0.04824896  1.90696035]
+ [ 0.24521503  1.71285645  0.56871466]
+ [ 1.12161537  1.09952701  0.43500509]
+ [ 1.04672872 -0.87149066  1.37910185]
+ [-0.67572222  0.54957988 -0.30690746]
+ [ 0.11307587  0.2425187  -1.00360677]
+ [ 0.00738543  1.92684314  1.62544232]
+ [ 1.09699729  1.85712008  1.26831994]
+ [ 0.30422896  1.17116558 -0.41070208]
+ [ 0.46621808  0.96810759  1.37861212]
+ [ 1.53487306  0.84641761  1.52100528]
+ [ 0.10192423 -0.39199114  1.0231099 ]
+ [-0.36600498  0.3274749   1.69931136]
+ [ 0.65906109 -0.70787312 -0.80217288]
+ [-0.83961993  0.11455039  0.70223401]
+ [-0.6016283   1.17027996  1.03857792]
+ [-0.10244096 -0.35135219 -0.06800217]
+ [ 0.880797    0.21408533 -0.2160243 ]
+ [-0.67440145  1.58021792  0.01005301]
+ [ 0.84503625 -0.78901849  0.28781798]
+ [ 1.04909729  0.11718929  0.86841171]
+ [ 0.11362188  0.57523739  0.46435513]]
+Final Potential Energy: -81.8241541580228
+
+23 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 1091.75396 | Acceptance Rate 0.064
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -56.67548 | Acceptance Rate 0.041
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -59.15804 | Acceptance Rate 0.005
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -62.12754 | Acceptance Rate 0.009
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -65.78086 | Acceptance Rate 0.007
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -68.13984 | Acceptance Rate 0.008
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -71.17309 | Acceptance Rate 0.008
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -72.66322 | Acceptance Rate 0.006
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -73.63870 | Acceptance Rate 0.003
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -75.38885 | Acceptance Rate 0.012
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -76.39099 | Acceptance Rate 0.008
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -77.17812 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -77.17812 | Acceptance Rate 0.000
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -77.17812 | Acceptance Rate 0.000
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -77.72776 | Acceptance Rate 0.010
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -78.70280 | Acceptance Rate 0.013
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -79.87080 | Acceptance Rate 0.020
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -80.30983 | Acceptance Rate 0.010
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -80.99742 | Acceptance Rate 0.012
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -82.15405 | Acceptance Rate 0.036
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -83.57569 | Acceptance Rate 0.041
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -84.34801 | Acceptance Rate 0.031
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -84.93248 | Acceptance Rate 0.032
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -85.28457 | Acceptance Rate 0.026
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -85.66018 | Acceptance Rate 0.029
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -85.91727 | Acceptance Rate 0.024
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -86.20692 | Acceptance Rate 0.030
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -86.33109 | Acceptance Rate 0.019
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -86.56811 | Acceptance Rate 0.039
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -86.82687 | Acceptance Rate 0.044
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -87.00440 | Acceptance Rate 0.030
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -87.09344 | Acceptance Rate 0.025
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -87.12995 | Acceptance Rate 0.015
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -87.17032 | Acceptance Rate 0.020
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -87.20659 | Acceptance Rate 0.015
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -87.22401 | Acceptance Rate 0.016
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -87.26682 | Acceptance Rate 0.036
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -87.28593 | Acceptance Rate 0.024
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -87.29624 | Acceptance Rate 0.016
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -87.30082 | Acceptance Rate 0.010
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -87.30202 | Acceptance Rate 0.004
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -87.30860 | Acceptance Rate 0.015
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -87.31328 | Acceptance Rate 0.014
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -87.31889 | Acceptance Rate 0.020
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -87.32071 | Acceptance Rate 0.014
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -87.32454 | Acceptance Rate 0.027
+Best energy found: -87.32454
+Optimized Coordinates:
+ [[-0.88834512 -0.26336328  1.20632277]
+ [ 1.45358881  0.91073898 -0.63129875]
+ [ 0.24636225  2.13765403  0.27175091]
+ [-1.03642341  0.69850847  0.49185007]
+ [-0.7007797   1.61989816 -0.25003697]
+ [-0.12911858 -1.02049648  0.64320245]
+ [ 0.69255449  0.50870597  0.93162346]
+ [ 0.36520326  1.40126949 -0.57904437]
+ [ 2.31243147  0.21384042 -0.47366755]
+ [-0.3049451   0.68587659  1.37723207]
+ [ 1.60284899  0.38025101  0.36257809]
+ [-0.1694534   0.03858169  0.46940386]
+ [ 0.62033403  0.43665453 -0.14560382]
+ [ 0.16763391 -0.52464653 -0.40241007]
+ [-0.41636166  0.55149676 -0.47002304]
+ [ 1.04840308  1.3549126   0.31252568]
+ [ 0.64010215  0.67569287  1.98971814]
+ [ 1.5198359   1.0928871   1.2963449 ]
+ [-0.03187845  1.10952543  0.41152838]
+ [ 0.48003379  1.5397704   1.2665112 ]
+ [ 0.83550565 -0.46550362  0.48867568]
+ [ 1.31892271 -0.29192632 -0.510057  ]
+ [ 0.21350711 -0.30948955  1.45442872]]
+Final Potential Energy: -87.3245426334854
+
+24 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 84612.74166 | Acceptance Rate 0.042
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -58.82483 | Acceptance Rate 0.070
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -68.59838 | Acceptance Rate 0.016
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -71.10148 | Acceptance Rate 0.006
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -72.23907 | Acceptance Rate 0.005
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -72.23907 | Acceptance Rate 0.000
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -74.10220 | Acceptance Rate 0.008
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -76.88790 | Acceptance Rate 0.011
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -78.11101 | Acceptance Rate 0.007
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -79.05476 | Acceptance Rate 0.007
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -79.53670 | Acceptance Rate 0.007
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -80.34475 | Acceptance Rate 0.008
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -82.31744 | Acceptance Rate 0.012
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -83.27480 | Acceptance Rate 0.010
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -83.54012 | Acceptance Rate 0.006
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -83.98271 | Acceptance Rate 0.007
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -84.77375 | Acceptance Rate 0.008
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -84.86427 | Acceptance Rate 0.002
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -86.08834 | Acceptance Rate 0.026
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -88.56795 | Acceptance Rate 0.041
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -89.08795 | Acceptance Rate 0.013
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -89.43436 | Acceptance Rate 0.012
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -89.53284 | Acceptance Rate 0.006
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -89.78165 | Acceptance Rate 0.013
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -90.17540 | Acceptance Rate 0.033
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -90.36509 | Acceptance Rate 0.020
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -90.55074 | Acceptance Rate 0.020
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -90.74368 | Acceptance Rate 0.023
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -91.09420 | Acceptance Rate 0.046
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -91.33676 | Acceptance Rate 0.040
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -91.54010 | Acceptance Rate 0.046
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -91.64689 | Acceptance Rate 0.037
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -91.72256 | Acceptance Rate 0.024
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -91.74291 | Acceptance Rate 0.012
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -91.76442 | Acceptance Rate 0.013
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -91.78666 | Acceptance Rate 0.024
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -91.83017 | Acceptance Rate 0.029
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -91.88693 | Acceptance Rate 0.048
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -92.00377 | Acceptance Rate 0.083
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -92.32607 | Acceptance Rate 0.176
+Iter  41000 | Temp 0.13303 | Step size 0.00074 | Best Energy -92.92508 | Acceptance Rate 0.258
+Iter  42000 | Temp 0.11973 | Step size 0.00074 | Best Energy -93.65243 | Acceptance Rate 0.252
+Iter  43000 | Temp 0.10775 | Step size 0.00074 | Best Energy -94.51016 | Acceptance Rate 0.264
+Iter  44000 | Temp 0.09698 | Step size 0.00074 | Best Energy -95.53543 | Acceptance Rate 0.288
+Iter  45000 | Temp 0.08728 | Step size 0.00074 | Best Energy -96.57452 | Acceptance Rate 0.295
+Iter  46000 | Temp 0.07855 | Step size 0.00074 | Best Energy -97.13565 | Acceptance Rate 0.230
+Iter  47000 | Temp 0.07070 | Step size 0.00067 | Best Energy -97.29580 | Acceptance Rate 0.115
+Iter  48000 | Temp 0.06363 | Step size 0.00060 | Best Energy -97.32582 | Acceptance Rate 0.042
+Best energy found: -97.32582
+Optimized Coordinates:
+ [[ 1.50137294  1.29720036  0.55392988]
+ [ 1.04714902  0.50033301 -0.03539844]
+ [ 1.51271558  0.90645528  1.63819149]
+ [ 0.41921738  1.37724703  0.2275498 ]
+ [ 0.81257626 -0.39324327  0.56021526]
+ [-0.03582106 -0.10055455  1.23146521]
+ [ 1.58388411 -0.40115729 -0.24548544]
+ [-0.64707711  1.08048349 -0.0506443 ]
+ [ 2.07842591  0.66120699 -0.24157792]
+ [ 0.49439224 -0.26941572 -0.56953638]
+ [ 1.2902551   0.36870551 -1.06187029]
+ [ 1.23693989  1.4072695  -0.56240266]
+ [ 0.67475204  1.63058003  1.30000735]
+ [-0.1953751  -0.71666796  0.21465416]
+ [ 0.37999092  0.7248076   1.95233758]
+ [ 0.05123046  0.32819944  0.22880457]
+ [ 0.74435517  0.62326128  0.96046961]
+ [ 1.73712018  0.20311701  0.75763049]
+ [-0.94002219  0.12963101  0.55134704]
+ [ 0.26183701  0.81449793 -0.72990231]
+ [ 0.78174484 -1.2345173  -0.13382264]
+ [-0.59523446  0.04869436 -0.57056983]
+ [ 1.05437878 -0.15314936  1.62715368]
+ [-0.27859964  0.98947575  1.03412821]]
+Final Potential Energy: -97.32582016619735
+
+25 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 40363.69714 | Acceptance Rate 0.049
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy -42.04814 | Acceptance Rate 0.056
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -65.76604 | Acceptance Rate 0.017
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -71.34904 | Acceptance Rate 0.009
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -71.47379 | Acceptance Rate 0.001
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -75.66951 | Acceptance Rate 0.007
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -78.47187 | Acceptance Rate 0.009
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -80.44784 | Acceptance Rate 0.011
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -81.55736 | Acceptance Rate 0.004
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -82.65591 | Acceptance Rate 0.003
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -84.07427 | Acceptance Rate 0.008
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -85.90646 | Acceptance Rate 0.009
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -85.97872 | Acceptance Rate 0.002
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -86.35206 | Acceptance Rate 0.006
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -86.71851 | Acceptance Rate 0.008
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -87.35879 | Acceptance Rate 0.006
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -87.95699 | Acceptance Rate 0.011
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -88.20817 | Acceptance Rate 0.008
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -88.72396 | Acceptance Rate 0.010
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -89.22248 | Acceptance Rate 0.015
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -89.97600 | Acceptance Rate 0.025
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -90.79728 | Acceptance Rate 0.029
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -90.91607 | Acceptance Rate 0.009
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -91.25787 | Acceptance Rate 0.022
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -91.34869 | Acceptance Rate 0.007
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -91.44194 | Acceptance Rate 0.009
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -91.54656 | Acceptance Rate 0.010
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -91.64964 | Acceptance Rate 0.018
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -91.90169 | Acceptance Rate 0.033
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -92.35443 | Acceptance Rate 0.054
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -92.87579 | Acceptance Rate 0.067
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -93.61648 | Acceptance Rate 0.103
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -94.33761 | Acceptance Rate 0.121
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -94.71713 | Acceptance Rate 0.091
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -95.00683 | Acceptance Rate 0.085
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -95.18129 | Acceptance Rate 0.077
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -95.30617 | Acceptance Rate 0.073
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -95.41810 | Acceptance Rate 0.070
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -95.49294 | Acceptance Rate 0.056
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -95.55020 | Acceptance Rate 0.056
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -95.58933 | Acceptance Rate 0.046
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -95.65400 | Acceptance Rate 0.097
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -95.74452 | Acceptance Rate 0.109
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -95.90802 | Acceptance Rate 0.174
+Iter  45000 | Temp 0.08728 | Step size 0.00048 | Best Energy -96.24556 | Acceptance Rate 0.257
+Iter  46000 | Temp 0.07855 | Step size 0.00048 | Best Energy -96.65518 | Acceptance Rate 0.277
+Iter  47000 | Temp 0.07070 | Step size 0.00048 | Best Energy -96.99915 | Acceptance Rate 0.262
+Iter  48000 | Temp 0.06363 | Step size 0.00048 | Best Energy -97.26210 | Acceptance Rate 0.224
+Iter  49000 | Temp 0.05726 | Step size 0.00048 | Best Energy -97.43262 | Acceptance Rate 0.202
+Iter  50000 | Temp 0.05154 | Step size 0.00044 | Best Energy -97.49229 | Acceptance Rate 0.103
+Best energy found: -97.49229
+Optimized Coordinates:
+ [[-0.00844517  0.68904235 -1.09923848]
+ [-0.65481838  1.09801327 -0.17585302]
+ [ 0.17982578  1.52563743  1.51821568]
+ [-0.98011815  0.21693191  0.57192138]
+ [ 0.76094055  0.26052965  0.41954653]
+ [ 1.08426667  1.17416209 -1.04515869]
+ [ 1.66486408  0.47700426  0.98230812]
+ [-0.49094252  0.39336728  1.63211555]
+ [ 0.87312487  0.13988857 -0.65111075]
+ [ 0.37079531 -1.33775087  0.92517037]
+ [-0.02653847 -0.29328102  0.89356613]
+ [-0.10082707  0.82530017  0.7238083 ]
+ [ 0.53142747  2.78996563  0.02040206]
+ [ 1.92017595  1.5942793   0.65710181]
+ [ 0.59542877 -0.72431226  0.03019259]
+ [ 1.14523644  1.88299926 -0.1058882 ]
+ [ 0.4334265   1.07107208 -0.19577539]
+ [ 1.6370081  -0.27406456  0.11222468]
+ [ 1.5310678   0.84079983 -0.07268098]
+ [-0.14172806  0.107315   -0.15362731]
+ [ 0.62043471  0.44729841  1.48410123]
+ [ 1.08907009 -0.50917831  1.08303711]
+ [ 0.98218506  2.30397341  0.9286745 ]
+ [ 0.91138538  1.24562521  0.77434043]
+ [ 0.0617221   1.87375264  0.43672097]]
+Final Potential Energy: -97.49228858134855
+
+26 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 1631502.16931 | Acceptance Rate 0.031
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 37245.22319 | Acceptance Rate 0.026
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 122.91503 | Acceptance Rate 0.059
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -72.13845 | Acceptance Rate 0.040
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -72.86117 | Acceptance Rate 0.003
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -76.26593 | Acceptance Rate 0.009
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -79.56688 | Acceptance Rate 0.008
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -85.67179 | Acceptance Rate 0.015
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -85.73021 | Acceptance Rate 0.001
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -86.63605 | Acceptance Rate 0.002
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -86.81149 | Acceptance Rate 0.001
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -87.97073 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -88.09210 | Acceptance Rate 0.001
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -89.56467 | Acceptance Rate 0.015
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -90.61367 | Acceptance Rate 0.012
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -91.80773 | Acceptance Rate 0.008
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -92.34590 | Acceptance Rate 0.005
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -93.25241 | Acceptance Rate 0.012
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -93.48614 | Acceptance Rate 0.005
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -93.71521 | Acceptance Rate 0.006
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -94.63197 | Acceptance Rate 0.026
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -95.15001 | Acceptance Rate 0.018
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -95.55492 | Acceptance Rate 0.019
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -95.96439 | Acceptance Rate 0.019
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -96.33855 | Acceptance Rate 0.022
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -96.83700 | Acceptance Rate 0.027
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -97.31928 | Acceptance Rate 0.040
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -97.76006 | Acceptance Rate 0.037
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -98.07511 | Acceptance Rate 0.039
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -98.29529 | Acceptance Rate 0.037
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -98.43514 | Acceptance Rate 0.034
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -98.57193 | Acceptance Rate 0.034
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -98.66581 | Acceptance Rate 0.026
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -98.75182 | Acceptance Rate 0.030
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -98.87550 | Acceptance Rate 0.047
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -99.10360 | Acceptance Rate 0.074
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -99.34844 | Acceptance Rate 0.098
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -99.51179 | Acceptance Rate 0.081
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -99.83205 | Acceptance Rate 0.141
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -100.25460 | Acceptance Rate 0.178
+Iter  41000 | Temp 0.13303 | Step size 0.00074 | Best Energy -100.76644 | Acceptance Rate 0.215
+Iter  42000 | Temp 0.11973 | Step size 0.00074 | Best Energy -101.27803 | Acceptance Rate 0.216
+Iter  43000 | Temp 0.10775 | Step size 0.00074 | Best Energy -101.81163 | Acceptance Rate 0.237
+Iter  44000 | Temp 0.09698 | Step size 0.00067 | Best Energy -102.13231 | Acceptance Rate 0.163
+Iter  45000 | Temp 0.08728 | Step size 0.00060 | Best Energy -102.30919 | Acceptance Rate 0.138
+Iter  46000 | Temp 0.07855 | Step size 0.00054 | Best Energy -102.45433 | Acceptance Rate 0.145
+Iter  47000 | Temp 0.07070 | Step size 0.00048 | Best Energy -102.56074 | Acceptance Rate 0.125
+Iter  48000 | Temp 0.06363 | Step size 0.00044 | Best Energy -102.65708 | Acceptance Rate 0.124
+Iter  49000 | Temp 0.05726 | Step size 0.00039 | Best Energy -102.77176 | Acceptance Rate 0.165
+Iter  50000 | Temp 0.05154 | Step size 0.00035 | Best Energy -102.88918 | Acceptance Rate 0.195
+Iter  51000 | Temp 0.04638 | Step size 0.00035 | Best Energy -103.01264 | Acceptance Rate 0.228
+Iter  52000 | Temp 0.04175 | Step size 0.00035 | Best Energy -103.13749 | Acceptance Rate 0.229
+Best energy found: -103.13749
+Optimized Coordinates:
+ [[ 0.42903044 -1.23445214  0.22272504]
+ [-0.64353216  0.2264315  -0.39661384]
+ [ 0.99091997  0.97522718  1.72564858]
+ [-1.14974914  0.80959582  0.39731252]
+ [ 1.08939945 -0.57905109 -0.45485625]
+ [-0.69513268  1.34531355 -0.46937778]
+ [ 1.18630226 -0.48393417  0.62644557]
+ [ 1.19482536  0.37280273 -1.08403164]
+ [ 1.03875682  0.44600134 -0.01232729]
+ [ 0.57798103  0.34480983  0.96100023]
+ [ 0.21526647 -0.65571932  1.16037389]
+ [ 0.13210008  0.21326737  1.93250279]
+ [ 0.62763447  2.01128386  1.43224579]
+ [ 0.25555911  1.83192823 -0.1293537 ]
+ [-0.67542113 -0.73561454  0.38414819]
+ [-0.59007688  1.75598362  0.5856197 ]
+ [ 1.21679812  1.40574021 -0.47526789]
+ [-0.04253185  0.86032507  0.27341149]
+ [-0.49108844  0.16595169  0.98795026]
+ [ 1.15819545 -0.17039296  1.70209828]
+ [ 0.89281612  1.3261818   0.62541157]
+ [ 1.64299889  0.51802591  0.9206583 ]
+ [-0.04786422  1.14621435  1.32863956]
+ [ 0.20415515 -0.19161271  0.11818278]
+ [ 0.2741203   0.8742286  -0.74321382]
+ [ 0.21173936 -0.18962173 -0.98133883]]
+Final Potential Energy: -103.13748935472428
+
+27 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 752227.98904 | Acceptance Rate 0.036
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 12687.64279 | Acceptance Rate 0.035
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -23.41049 | Acceptance Rate 0.052
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -71.18872 | Acceptance Rate 0.028
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -78.05565 | Acceptance Rate 0.008
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -79.37496 | Acceptance Rate 0.003
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -82.50491 | Acceptance Rate 0.008
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -84.96433 | Acceptance Rate 0.008
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -86.69325 | Acceptance Rate 0.006
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -87.88056 | Acceptance Rate 0.005
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -89.60242 | Acceptance Rate 0.007
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -90.23101 | Acceptance Rate 0.005
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -91.34179 | Acceptance Rate 0.010
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -92.18344 | Acceptance Rate 0.008
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -93.24121 | Acceptance Rate 0.011
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -94.59818 | Acceptance Rate 0.018
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -95.65189 | Acceptance Rate 0.016
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -96.55101 | Acceptance Rate 0.016
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -98.15484 | Acceptance Rate 0.025
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -99.13379 | Acceptance Rate 0.021
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -101.15993 | Acceptance Rate 0.043
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -103.57081 | Acceptance Rate 0.063
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -105.29112 | Acceptance Rate 0.060
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -105.58163 | Acceptance Rate 0.019
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -105.71967 | Acceptance Rate 0.011
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -105.83069 | Acceptance Rate 0.010
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -105.85924 | Acceptance Rate 0.005
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -105.96517 | Acceptance Rate 0.014
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -106.01764 | Acceptance Rate 0.011
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -106.08114 | Acceptance Rate 0.010
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -106.11068 | Acceptance Rate 0.006
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -106.12196 | Acceptance Rate 0.005
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -106.18839 | Acceptance Rate 0.024
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -106.20230 | Acceptance Rate 0.006
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -106.24383 | Acceptance Rate 0.021
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -106.32213 | Acceptance Rate 0.037
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -106.47791 | Acceptance Rate 0.072
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -106.67547 | Acceptance Rate 0.082
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -106.89254 | Acceptance Rate 0.115
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -107.16462 | Acceptance Rate 0.126
+Iter  41000 | Temp 0.13303 | Step size 0.00074 | Best Energy -107.61604 | Acceptance Rate 0.212
+Iter  42000 | Temp 0.11973 | Step size 0.00074 | Best Energy -108.12516 | Acceptance Rate 0.218
+Iter  43000 | Temp 0.10775 | Step size 0.00067 | Best Energy -108.47913 | Acceptance Rate 0.162
+Iter  44000 | Temp 0.09698 | Step size 0.00060 | Best Energy -108.66414 | Acceptance Rate 0.133
+Iter  45000 | Temp 0.08728 | Step size 0.00054 | Best Energy -108.74934 | Acceptance Rate 0.105
+Iter  46000 | Temp 0.07855 | Step size 0.00048 | Best Energy -108.82229 | Acceptance Rate 0.114
+Iter  47000 | Temp 0.07070 | Step size 0.00044 | Best Energy -108.85938 | Acceptance Rate 0.089
+Iter  48000 | Temp 0.06363 | Step size 0.00039 | Best Energy -108.88645 | Acceptance Rate 0.073
+Iter  49000 | Temp 0.05726 | Step size 0.00035 | Best Energy -108.90962 | Acceptance Rate 0.076
+Iter  50000 | Temp 0.05154 | Step size 0.00032 | Best Energy -108.91996 | Acceptance Rate 0.053
+Iter  51000 | Temp 0.04638 | Step size 0.00029 | Best Energy -108.92616 | Acceptance Rate 0.047
+Iter  52000 | Temp 0.04175 | Step size 0.00026 | Best Energy -108.93059 | Acceptance Rate 0.033
+Iter  53000 | Temp 0.03757 | Step size 0.00023 | Best Energy -108.93308 | Acceptance Rate 0.028
+Iter  54000 | Temp 0.03381 | Step size 0.00021 | Best Energy -108.93497 | Acceptance Rate 0.027
+Best energy found: -108.93497
+Optimized Coordinates:
+ [[ 2.1654282   1.35954225  0.5018576 ]
+ [ 0.93314609  0.04746569  1.10362182]
+ [ 1.22929925 -0.72203573  0.33781295]
+ [ 0.14495636  0.65820908  0.59919606]
+ [-0.59354295  1.20783132  0.0580536 ]
+ [-0.52473239 -0.73252627 -0.30124376]
+ [ 1.88274769  0.25246102  0.47797784]
+ [ 0.50253723  1.23740216 -0.25805721]
+ [-0.45703012  0.63466017  2.20437422]
+ [-0.58119983 -0.96306481  0.82735819]
+ [ 0.19120204 -0.36955441  0.40147381]
+ [ 2.17674346  1.93341336 -0.46037532]
+ [ 0.30097827 -1.39934595  0.15721293]
+ [-0.09867603  0.30585537 -0.42162824]
+ [-0.66453191  1.01568271  1.18257177]
+ [ 0.83567645  0.46431543 -1.0353708 ]
+ [-0.15855206 -0.04266629  1.37868569]
+ [-0.78974457  0.11838879  0.45152926]
+ [ 0.23007517  1.71724625  0.72710238]
+ [ 1.23659965  1.95817806  0.13834776]
+ [ 1.5964954   0.99365463 -0.3672619 ]
+ [ 0.42018053  0.94324587  1.58948558]
+ [ 0.59242217 -0.57360368 -0.59465073]
+ [ 0.92034208  0.27122368  0.01422742]
+ [ 1.14049014  1.05816756  0.72698763]
+ [ 0.50446321 -0.98721811  1.21408418]
+ [ 1.68555914 -0.16613829 -0.57853298]]
+Final Potential Energy: -108.93497337331857
+
+28 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 77124.34909 | Acceptance Rate 0.049
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 3221.18564 | Acceptance Rate 0.024
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy -64.78050 | Acceptance Rate 0.061
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -69.66290 | Acceptance Rate 0.010
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -77.08597 | Acceptance Rate 0.013
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -82.68374 | Acceptance Rate 0.015
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -83.96489 | Acceptance Rate 0.006
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -86.63196 | Acceptance Rate 0.005
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -87.16144 | Acceptance Rate 0.002
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -87.59177 | Acceptance Rate 0.003
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -88.64052 | Acceptance Rate 0.004
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -89.39273 | Acceptance Rate 0.004
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -89.91053 | Acceptance Rate 0.005
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -92.11733 | Acceptance Rate 0.019
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -94.32838 | Acceptance Rate 0.018
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -97.57580 | Acceptance Rate 0.031
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -99.86286 | Acceptance Rate 0.019
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -101.76083 | Acceptance Rate 0.027
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -103.06518 | Acceptance Rate 0.021
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -104.17040 | Acceptance Rate 0.018
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -105.76600 | Acceptance Rate 0.034
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -107.23995 | Acceptance Rate 0.037
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -107.97042 | Acceptance Rate 0.027
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -108.98052 | Acceptance Rate 0.038
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -109.56404 | Acceptance Rate 0.036
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -110.05993 | Acceptance Rate 0.027
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -110.29238 | Acceptance Rate 0.018
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -110.61500 | Acceptance Rate 0.032
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -110.91581 | Acceptance Rate 0.030
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -111.02531 | Acceptance Rate 0.012
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -111.17928 | Acceptance Rate 0.026
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -111.25935 | Acceptance Rate 0.022
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -111.32184 | Acceptance Rate 0.015
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -111.36991 | Acceptance Rate 0.017
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -111.40940 | Acceptance Rate 0.014
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -111.43797 | Acceptance Rate 0.018
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -111.45962 | Acceptance Rate 0.014
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -111.48518 | Acceptance Rate 0.022
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -111.52526 | Acceptance Rate 0.035
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -111.54510 | Acceptance Rate 0.025
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -111.57131 | Acceptance Rate 0.034
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -111.61499 | Acceptance Rate 0.057
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -111.68098 | Acceptance Rate 0.082
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -111.81460 | Acceptance Rate 0.134
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -112.00378 | Acceptance Rate 0.188
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -112.13587 | Acceptance Rate 0.179
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -112.24542 | Acceptance Rate 0.188
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -112.31362 | Acceptance Rate 0.151
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -112.35811 | Acceptance Rate 0.144
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -112.39328 | Acceptance Rate 0.137
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -112.42294 | Acceptance Rate 0.135
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -112.43938 | Acceptance Rate 0.106
+Iter  53000 | Temp 0.03757 | Step size 0.00019 | Best Energy -112.45054 | Acceptance Rate 0.106
+Iter  54000 | Temp 0.03381 | Step size 0.00017 | Best Energy -112.45828 | Acceptance Rate 0.085
+Iter  55000 | Temp 0.03043 | Step size 0.00015 | Best Energy -112.46253 | Acceptance Rate 0.078
+Iter  56000 | Temp 0.02739 | Step size 0.00014 | Best Energy -112.46409 | Acceptance Rate 0.051
+Best energy found: -112.46409
+Optimized Coordinates:
+ [[ 0.10499689  1.60107507 -0.6677117 ]
+ [ 0.73571151  1.20147725  1.3507323 ]
+ [ 0.40492541 -0.49704196  0.82611948]
+ [-0.32546379  0.93675897  1.76619367]
+ [ 1.49934842  0.04120934 -0.22893624]
+ [ 1.08945436  0.34476086  0.74125355]
+ [ 1.20251464 -0.61758727  1.62823621]
+ [ 0.59506066  1.23569148  0.24411091]
+ [ 1.61473874  0.42630915  1.66727653]
+ [ 0.50498276  0.19063695  1.74529553]
+ [ 0.97179448  0.90108055 -0.73333414]
+ [-1.02414429  0.69666958  0.8864858 ]
+ [-0.28061359  1.5638179   0.82993041]
+ [-0.54875509 -0.19234537  0.3070974 ]
+ [ 0.04345643  0.53250061  0.84062843]
+ [-0.4548591   0.87253175 -0.05787351]
+ [ 0.81883235 -0.15179583 -1.07662114]
+ [-0.53395018 -0.14676013  1.43633988]
+ [ 0.16238907 -0.88363273  1.84915743]
+ [-0.1763515  -0.49941451 -0.69222085]
+ [ 2.27088469 -0.4811394   1.45131157]
+ [ 0.4200691   0.19911409 -0.10010288]
+ [ 1.52981514 -0.65897336  0.60357792]
+ [ 0.76811306 -0.8233119  -0.17779337]
+ [ 1.80555861  0.3791547  -1.2281456 ]
+ [ 2.17095181  0.26034917  0.65456907]
+ [ 1.66387515  1.07681205  0.11961394]
+ [-0.04301653  0.55461842 -1.03526122]]
+Final Potential Energy: -112.46409409688663
+
+29 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 202161625.20595 | Acceptance Rate 0.016
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 2352499.72402 | Acceptance Rate 0.018
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 78635.28659 | Acceptance Rate 0.030
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 951.58742 | Acceptance Rate 0.044
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -67.98380 | Acceptance Rate 0.056
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -80.42951 | Acceptance Rate 0.015
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -84.51263 | Acceptance Rate 0.014
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -86.70834 | Acceptance Rate 0.010
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -90.64872 | Acceptance Rate 0.015
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -92.50850 | Acceptance Rate 0.007
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -93.63757 | Acceptance Rate 0.006
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -95.61160 | Acceptance Rate 0.012
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -99.26182 | Acceptance Rate 0.023
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -103.41034 | Acceptance Rate 0.024
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -103.73345 | Acceptance Rate 0.005
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -105.40613 | Acceptance Rate 0.019
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -106.85512 | Acceptance Rate 0.016
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -107.86696 | Acceptance Rate 0.014
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -108.69129 | Acceptance Rate 0.019
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -110.40332 | Acceptance Rate 0.032
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -110.93983 | Acceptance Rate 0.011
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -111.52849 | Acceptance Rate 0.023
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -112.72341 | Acceptance Rate 0.033
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -113.48661 | Acceptance Rate 0.027
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -113.84395 | Acceptance Rate 0.021
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -114.16387 | Acceptance Rate 0.022
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -114.34896 | Acceptance Rate 0.019
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -114.60837 | Acceptance Rate 0.023
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -114.71277 | Acceptance Rate 0.010
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -114.88785 | Acceptance Rate 0.028
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -115.17960 | Acceptance Rate 0.050
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -115.79046 | Acceptance Rate 0.081
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -117.03257 | Acceptance Rate 0.132
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -117.85469 | Acceptance Rate 0.128
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -118.52748 | Acceptance Rate 0.120
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -119.21495 | Acceptance Rate 0.134
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -119.89351 | Acceptance Rate 0.143
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -120.63242 | Acceptance Rate 0.177
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -121.11982 | Acceptance Rate 0.155
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -121.40873 | Acceptance Rate 0.128
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -121.54929 | Acceptance Rate 0.091
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -121.60664 | Acceptance Rate 0.064
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -121.66077 | Acceptance Rate 0.062
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -121.70304 | Acceptance Rate 0.070
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -121.72970 | Acceptance Rate 0.056
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -121.75023 | Acceptance Rate 0.050
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -121.76101 | Acceptance Rate 0.037
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -121.76763 | Acceptance Rate 0.039
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -121.77253 | Acceptance Rate 0.032
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -121.77590 | Acceptance Rate 0.031
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -121.77662 | Acceptance Rate 0.006
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -121.77728 | Acceptance Rate 0.013
+Iter  53000 | Temp 0.03757 | Step size 0.00019 | Best Energy -121.77820 | Acceptance Rate 0.014
+Iter  54000 | Temp 0.03381 | Step size 0.00017 | Best Energy -121.77893 | Acceptance Rate 0.019
+Iter  55000 | Temp 0.03043 | Step size 0.00015 | Best Energy -121.77945 | Acceptance Rate 0.019
+Iter  56000 | Temp 0.02739 | Step size 0.00014 | Best Energy -121.78010 | Acceptance Rate 0.025
+Iter  57000 | Temp 0.02465 | Step size 0.00012 | Best Energy -121.78038 | Acceptance Rate 0.015
+Iter  58000 | Temp 0.02219 | Step size 0.00011 | Best Energy -121.78064 | Acceptance Rate 0.011
+Best energy found: -121.78064
+Optimized Coordinates:
+ [[ 1.58789960e+00  2.36280201e-01  1.16052375e+00]
+ [ 8.44062247e-01 -7.92064007e-01 -2.48348619e-01]
+ [ 8.82395267e-01  8.46968957e-02  3.54366030e-01]
+ [ 1.29296171e+00  1.31481959e+00 -8.18581494e-01]
+ [-4.52936696e-02  1.60036152e+00  5.18474235e-01]
+ [ 2.86517496e-01  7.65205293e-01 -1.14635575e+00]
+ [ 1.61163655e+00  8.73907935e-01  1.86329978e-01]
+ [ 5.14072284e-01  7.27993796e-02  1.33144383e+00]
+ [ 8.29339113e-02  7.84191724e-02  2.30259312e+00]
+ [ 1.09716777e+00 -7.83048736e-01  9.51355041e-01]
+ [-5.78029463e-01 -3.95063208e-02  1.36002132e+00]
+ [ 1.15409930e+00 -3.90832172e-01  2.04100520e+00]
+ [ 1.14721330e+00  2.13057972e-01 -6.76644980e-01]
+ [-9.11091673e-01 -2.69431663e-02  2.40075062e-01]
+ [-9.85255612e-01  9.78185045e-01  8.25666674e-01]
+ [ 9.75897337e-01  7.51413992e-01  2.01413482e+00]
+ [ 4.07012971e-02 -5.88178913e-01  5.76368782e-01]
+ [ 4.75074789e-01 -3.90466002e-01 -1.28744656e+00]
+ [ 1.73461816e-01 -8.81946946e-01  1.65977340e+00]
+ [-6.65334342e-02  5.16404985e-01  5.85284657e-01]
+ [ 1.91352477e-01  1.81251616e+00 -6.23223510e-01]
+ [ 8.34842929e-01  1.05139760e+00  9.41152316e-01]
+ [ 2.17882729e+00  5.66211945e-01 -6.96091970e-01]
+ [ 5.62925110e-01  9.53463107e-01 -1.28949880e-01]
+ [ 4.98093568e-02  1.42305587e-03 -3.64610277e-01]
+ [ 1.85978436e+00 -2.32746537e-01  8.98130124e-02]
+ [-5.23206414e-01  9.62595376e-01 -2.93772248e-01]
+ [-8.33377889e-02  9.68246664e-01  1.57091214e+00]
+ [ 1.03173420e+00  1.86258070e+00  1.73633638e-01]]
+Final Potential Energy: -121.78063785915649
+
+30 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 3741704.96713 | Acceptance Rate 0.034
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 64898.45148 | Acceptance Rate 0.028
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 35.32530 | Acceptance Rate 0.061
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -79.70087 | Acceptance Rate 0.032
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -84.75953 | Acceptance Rate 0.011
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -89.54007 | Acceptance Rate 0.007
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -90.77231 | Acceptance Rate 0.005
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -92.66822 | Acceptance Rate 0.006
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -93.58789 | Acceptance Rate 0.005
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -96.28845 | Acceptance Rate 0.008
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -97.17630 | Acceptance Rate 0.004
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -100.73134 | Acceptance Rate 0.013
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -102.29921 | Acceptance Rate 0.009
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -105.59248 | Acceptance Rate 0.020
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -107.04067 | Acceptance Rate 0.015
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -108.75509 | Acceptance Rate 0.015
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -110.23876 | Acceptance Rate 0.020
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -111.80322 | Acceptance Rate 0.019
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -113.27103 | Acceptance Rate 0.021
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -114.62563 | Acceptance Rate 0.020
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -115.80382 | Acceptance Rate 0.029
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -117.06473 | Acceptance Rate 0.029
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -118.64091 | Acceptance Rate 0.038
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -119.56762 | Acceptance Rate 0.035
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -120.09836 | Acceptance Rate 0.025
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -120.23444 | Acceptance Rate 0.015
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -120.40036 | Acceptance Rate 0.012
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -120.55218 | Acceptance Rate 0.017
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -120.72561 | Acceptance Rate 0.017
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -120.93935 | Acceptance Rate 0.028
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -121.12399 | Acceptance Rate 0.033
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -121.25304 | Acceptance Rate 0.025
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -121.43812 | Acceptance Rate 0.042
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -121.75434 | Acceptance Rate 0.072
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -122.19348 | Acceptance Rate 0.094
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -122.59519 | Acceptance Rate 0.092
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -122.89565 | Acceptance Rate 0.097
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -123.05492 | Acceptance Rate 0.078
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -123.15489 | Acceptance Rate 0.057
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -123.24282 | Acceptance Rate 0.066
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -123.30362 | Acceptance Rate 0.054
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -123.35898 | Acceptance Rate 0.066
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -123.40571 | Acceptance Rate 0.059
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -123.45401 | Acceptance Rate 0.074
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -123.51015 | Acceptance Rate 0.093
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -123.58016 | Acceptance Rate 0.122
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -123.64335 | Acceptance Rate 0.124
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -123.74487 | Acceptance Rate 0.189
+Iter  49000 | Temp 0.05726 | Step size 0.00032 | Best Energy -123.86396 | Acceptance Rate 0.219
+Iter  50000 | Temp 0.05154 | Step size 0.00032 | Best Energy -123.99734 | Acceptance Rate 0.216
+Iter  51000 | Temp 0.04638 | Step size 0.00032 | Best Energy -124.13611 | Acceptance Rate 0.239
+Iter  52000 | Temp 0.04175 | Step size 0.00032 | Best Energy -124.26189 | Acceptance Rate 0.215
+Iter  53000 | Temp 0.03757 | Step size 0.00029 | Best Energy -124.33949 | Acceptance Rate 0.167
+Iter  54000 | Temp 0.03381 | Step size 0.00026 | Best Energy -124.37225 | Acceptance Rate 0.121
+Iter  55000 | Temp 0.03043 | Step size 0.00023 | Best Energy -124.38702 | Acceptance Rate 0.094
+Iter  56000 | Temp 0.02739 | Step size 0.00021 | Best Energy -124.39826 | Acceptance Rate 0.095
+Iter  57000 | Temp 0.02465 | Step size 0.00019 | Best Energy -124.40468 | Acceptance Rate 0.073
+Iter  58000 | Temp 0.02219 | Step size 0.00017 | Best Energy -124.41188 | Acceptance Rate 0.077
+Iter  59000 | Temp 0.01997 | Step size 0.00015 | Best Energy -124.41878 | Acceptance Rate 0.099
+Iter  60000 | Temp 0.01797 | Step size 0.00014 | Best Energy -124.42410 | Acceptance Rate 0.089
+Best energy found: -124.42410
+Optimized Coordinates:
+ [[-1.23782834  0.03166104  0.75023776]
+ [ 1.15038936  1.1135088   1.5315764 ]
+ [-0.62244705 -0.69564151  0.12694072]
+ [ 0.10652388  0.63881533 -0.93150135]
+ [ 1.71757348  0.20779794  1.51988082]
+ [ 1.24732513 -0.54608236  2.22241279]
+ [-0.60941168 -0.72136304  1.28228961]
+ [ 1.01988417  1.41799086  0.48204097]
+ [ 0.32562108 -0.87324277  0.63156633]
+ [ 0.20776812  0.98223771  2.25295497]
+ [ 1.23878291 -0.6594932   1.12865616]
+ [-0.38281104 -0.40379436 -0.94918941]
+ [-0.59971448  0.3969476   1.67031722]
+ [ 0.55169349  1.62291161 -0.53553703]
+ [-0.01987477  1.88321363  0.43858552]
+ [ 0.34593914 -0.13839521 -0.17974092]
+ [ 1.19189667  0.52285693  2.45919738]
+ [-0.15491943  0.08897722  0.75178361]
+ [ 1.11984472  0.64523393 -0.33675434]
+ [-0.71257883  0.33667506 -0.20452632]
+ [-0.57507939  1.42153927 -0.43215355]
+ [ 0.22587774 -1.19590478 -0.42390931]
+ [ 0.89125899  0.33029672  0.71874244]
+ [ 0.16488191  0.87247108  0.12034358]
+ [ 1.38435065 -0.3811101   0.06791874]
+ [ 0.15328441  1.0570041   1.17281704]
+ [ 0.50454726  0.09272009  1.67409983]
+ [ 0.3581184  -0.99393349  1.73119166]
+ [ 1.87676702  0.67691776  0.50653502]
+ [-0.78832125  1.04005151  0.64357167]]
+Final Potential Energy: -124.42409742107665
+
+31 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 72895796.11026 | Acceptance Rate 0.019
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 681741.80682 | Acceptance Rate 0.021
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 6402.73316 | Acceptance Rate 0.044
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy -75.83078 | Acceptance Rate 0.061
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy -89.68613 | Acceptance Rate 0.012
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -93.57210 | Acceptance Rate 0.007
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -98.49126 | Acceptance Rate 0.014
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -100.17863 | Acceptance Rate 0.004
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -101.71511 | Acceptance Rate 0.006
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -106.80348 | Acceptance Rate 0.018
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -110.43645 | Acceptance Rate 0.015
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -111.28151 | Acceptance Rate 0.004
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -111.53193 | Acceptance Rate 0.004
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -113.63890 | Acceptance Rate 0.015
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -114.27917 | Acceptance Rate 0.007
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -115.21299 | Acceptance Rate 0.007
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -115.43856 | Acceptance Rate 0.004
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -116.21205 | Acceptance Rate 0.017
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -116.57929 | Acceptance Rate 0.007
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -116.91913 | Acceptance Rate 0.009
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -117.68322 | Acceptance Rate 0.021
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -118.34963 | Acceptance Rate 0.019
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -119.05403 | Acceptance Rate 0.019
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -120.94411 | Acceptance Rate 0.049
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -122.34516 | Acceptance Rate 0.043
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -122.92367 | Acceptance Rate 0.031
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -123.30295 | Acceptance Rate 0.028
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -123.55410 | Acceptance Rate 0.030
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -123.74293 | Acceptance Rate 0.023
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -123.92240 | Acceptance Rate 0.029
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -124.16840 | Acceptance Rate 0.037
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -124.41252 | Acceptance Rate 0.042
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -124.57513 | Acceptance Rate 0.035
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -124.83748 | Acceptance Rate 0.062
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -125.29790 | Acceptance Rate 0.089
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -125.75909 | Acceptance Rate 0.088
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -126.39240 | Acceptance Rate 0.154
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -127.07958 | Acceptance Rate 0.149
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -127.63260 | Acceptance Rate 0.163
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -127.96631 | Acceptance Rate 0.136
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -128.29928 | Acceptance Rate 0.162
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -128.46361 | Acceptance Rate 0.124
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -128.62698 | Acceptance Rate 0.137
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -128.82078 | Acceptance Rate 0.160
+Iter  45000 | Temp 0.08728 | Step size 0.00048 | Best Energy -129.05629 | Acceptance Rate 0.204
+Iter  46000 | Temp 0.07855 | Step size 0.00048 | Best Energy -129.34165 | Acceptance Rate 0.229
+Iter  47000 | Temp 0.07070 | Step size 0.00048 | Best Energy -129.60354 | Acceptance Rate 0.222
+Iter  48000 | Temp 0.06363 | Step size 0.00048 | Best Energy -129.83497 | Acceptance Rate 0.202
+Iter  49000 | Temp 0.05726 | Step size 0.00044 | Best Energy -130.04319 | Acceptance Rate 0.194
+Iter  50000 | Temp 0.05154 | Step size 0.00039 | Best Energy -130.23850 | Acceptance Rate 0.193
+Iter  51000 | Temp 0.04638 | Step size 0.00039 | Best Energy -130.42247 | Acceptance Rate 0.203
+Iter  52000 | Temp 0.04175 | Step size 0.00039 | Best Energy -130.60088 | Acceptance Rate 0.220
+Iter  53000 | Temp 0.03757 | Step size 0.00035 | Best Energy -130.73971 | Acceptance Rate 0.163
+Iter  54000 | Temp 0.03381 | Step size 0.00032 | Best Energy -130.85931 | Acceptance Rate 0.182
+Iter  55000 | Temp 0.03043 | Step size 0.00029 | Best Energy -130.93768 | Acceptance Rate 0.184
+Iter  56000 | Temp 0.02739 | Step size 0.00026 | Best Energy -130.98800 | Acceptance Rate 0.157
+Iter  57000 | Temp 0.02465 | Step size 0.00023 | Best Energy -131.02462 | Acceptance Rate 0.138
+Iter  58000 | Temp 0.02219 | Step size 0.00021 | Best Energy -131.04539 | Acceptance Rate 0.116
+Iter  59000 | Temp 0.01997 | Step size 0.00019 | Best Energy -131.06085 | Acceptance Rate 0.123
+Iter  60000 | Temp 0.01797 | Step size 0.00017 | Best Energy -131.06977 | Acceptance Rate 0.098
+Iter  61000 | Temp 0.01617 | Step size 0.00015 | Best Energy -131.07638 | Acceptance Rate 0.090
+Iter  62000 | Temp 0.01456 | Step size 0.00014 | Best Energy -131.07916 | Acceptance Rate 0.061
+Best energy found: -131.07916
+Optimized Coordinates:
+ [[ 1.217996   -1.05933709  0.15232192]
+ [ 1.52505657 -1.16337895  1.27335197]
+ [-0.1459636   0.90784457  1.21713826]
+ [-0.19774428  0.06037733 -0.43667579]
+ [ 0.6732264  -0.59994074 -0.83188501]
+ [ 1.36182174  0.80825396  0.19538495]
+ [ 1.65950411 -0.11109044 -0.4288062 ]
+ [ 0.73773235 -0.09129637  0.09152538]
+ [ 0.72677159  1.66322463 -0.2340746 ]
+ [-1.16019344  0.53844433 -0.69592007]
+ [ 1.63837157 -0.16903321  0.72399936]
+ [ 0.74447451  0.60874366 -0.73757776]
+ [-0.22623454  1.7519628   0.45213859]
+ [-0.20343581 -0.05093561  0.66114822]
+ [ 0.56425106 -1.09131101  1.93937742]
+ [ 1.23691283 -0.1648954   1.80187107]
+ [ 0.79409844  1.4879361   0.89800136]
+ [ 0.54873868 -1.67551664  0.89130197]
+ [ 1.69212328  0.83977604  1.30190763]
+ [ 0.70046448  0.98810799  1.92429306]
+ [ 0.08315706 -0.05146342  1.74275472]
+ [-1.05195258  1.48204603  1.17658901]
+ [-0.27199761  1.21289829 -0.62057166]
+ [ 0.76608334  0.41090234  1.02781401]
+ [-0.33130172 -0.98806958  1.22380439]
+ [ 0.24764122  0.8267313   0.21352676]
+ [-0.00381973  1.91880128  1.55049081]
+ [ 0.08362765 -0.96356061  0.1073232 ]
+ [-0.82395065  0.79202177  0.32573765]
+ [ 0.65321661 -0.6255904   0.98928105]
+ [-0.99529914  0.25165108  1.34315814]]
+Final Potential Energy: -131.07915992880746
+
+32 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 1896467069.33086 | Acceptance Rate 0.012
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 111318176.86084 | Acceptance Rate 0.009
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 5869818.37200 | Acceptance Rate 0.015
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 719556.96927 | Acceptance Rate 0.018
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 4441.26510 | Acceptance Rate 0.060
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -88.87059 | Acceptance Rate 0.078
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -95.48980 | Acceptance Rate 0.010
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -104.56924 | Acceptance Rate 0.017
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -108.99627 | Acceptance Rate 0.009
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -110.86702 | Acceptance Rate 0.008
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -114.80659 | Acceptance Rate 0.017
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -116.91290 | Acceptance Rate 0.009
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -118.58772 | Acceptance Rate 0.011
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -121.80787 | Acceptance Rate 0.019
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -124.01344 | Acceptance Rate 0.014
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -124.64566 | Acceptance Rate 0.006
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -125.69898 | Acceptance Rate 0.016
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -127.49386 | Acceptance Rate 0.015
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -128.56628 | Acceptance Rate 0.013
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -129.01900 | Acceptance Rate 0.007
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -129.59265 | Acceptance Rate 0.015
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -130.40524 | Acceptance Rate 0.023
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -131.20390 | Acceptance Rate 0.028
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -131.91815 | Acceptance Rate 0.028
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -132.40786 | Acceptance Rate 0.029
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -132.79745 | Acceptance Rate 0.025
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -133.11888 | Acceptance Rate 0.025
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -133.69384 | Acceptance Rate 0.036
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -133.86494 | Acceptance Rate 0.018
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -134.10498 | Acceptance Rate 0.030
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -134.52683 | Acceptance Rate 0.047
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -134.76184 | Acceptance Rate 0.033
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -134.94426 | Acceptance Rate 0.037
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -135.11791 | Acceptance Rate 0.037
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -135.22269 | Acceptance Rate 0.036
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -135.36987 | Acceptance Rate 0.049
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -135.44105 | Acceptance Rate 0.025
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -135.50886 | Acceptance Rate 0.037
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -135.59185 | Acceptance Rate 0.047
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -135.63191 | Acceptance Rate 0.029
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -135.66089 | Acceptance Rate 0.036
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -135.69119 | Acceptance Rate 0.041
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -135.70507 | Acceptance Rate 0.023
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -135.72243 | Acceptance Rate 0.031
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -135.73928 | Acceptance Rate 0.044
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -135.75287 | Acceptance Rate 0.040
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -135.76486 | Acceptance Rate 0.043
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -135.77090 | Acceptance Rate 0.032
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -135.78280 | Acceptance Rate 0.058
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -135.79182 | Acceptance Rate 0.046
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -135.79597 | Acceptance Rate 0.028
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -135.80327 | Acceptance Rate 0.057
+Iter  53000 | Temp 0.03757 | Step size 0.00019 | Best Energy -135.80902 | Acceptance Rate 0.058
+Iter  54000 | Temp 0.03381 | Step size 0.00017 | Best Energy -135.81622 | Acceptance Rate 0.078
+Iter  55000 | Temp 0.03043 | Step size 0.00015 | Best Energy -135.82128 | Acceptance Rate 0.067
+Iter  56000 | Temp 0.02739 | Step size 0.00014 | Best Energy -135.82507 | Acceptance Rate 0.059
+Iter  57000 | Temp 0.02465 | Step size 0.00012 | Best Energy -135.83027 | Acceptance Rate 0.097
+Iter  58000 | Temp 0.02219 | Step size 0.00011 | Best Energy -135.83491 | Acceptance Rate 0.106
+Iter  59000 | Temp 0.01997 | Step size 0.00010 | Best Energy -135.83914 | Acceptance Rate 0.111
+Iter  60000 | Temp 0.01797 | Step size 0.00009 | Best Energy -135.84295 | Acceptance Rate 0.117
+Iter  61000 | Temp 0.01617 | Step size 0.00008 | Best Energy -135.84662 | Acceptance Rate 0.111
+Iter  62000 | Temp 0.01456 | Step size 0.00007 | Best Energy -135.85051 | Acceptance Rate 0.157
+Iter  63000 | Temp 0.01310 | Step size 0.00007 | Best Energy -135.85408 | Acceptance Rate 0.152
+Iter  64000 | Temp 0.01179 | Step size 0.00006 | Best Energy -135.85664 | Acceptance Rate 0.149
+Best energy found: -135.85664
+Optimized Coordinates:
+ [[ 1.79060981  0.07139015  1.07840552]
+ [ 0.19431641  0.02526855  0.06001237]
+ [ 2.24722876  0.62034417  0.16948604]
+ [-0.16069496  0.98791511 -1.35363565]
+ [ 1.46316144  1.07704985  0.8332915 ]
+ [ 0.77181816 -0.76050139  0.49993657]
+ [-1.14496777 -0.79744945  0.91204773]
+ [-0.66813827  1.36902769  1.45726525]
+ [ 1.12853514  0.63248467  1.89226375]
+ [-0.38323272  0.89016519 -0.28912159]
+ [-0.5943884  -0.48374116  1.97992276]
+ [ 0.46921829  1.32270691  1.27118017]
+ [ 0.65923414  0.57327311 -0.76140298]
+ [ 1.73527708  0.30305767 -0.86397729]
+ [ 0.90619063  1.98489217  0.41701602]
+ [ 1.41103464 -0.91072553  1.37783729]
+ [-0.2921746  -0.92665569  0.03360779]
+ [ 0.55369087 -0.42243117  1.85408884]
+ [-0.15643597 -0.38712799  0.99922608]
+ [ 0.79049518 -0.52710631 -0.63953143]
+ [-0.04616634  0.48369365  1.80667375]
+ [-0.89052781  0.01192481  0.18653889]
+ [ 1.45756134  1.24415142 -0.31187897]
+ [ 0.71398839  0.23939154  1.00325259]
+ [-1.19228171  1.07823299  0.48040103]
+ [-0.25170436  0.66723455  0.77362819]
+ [ 0.58292804  0.99011942  0.23257037]
+ [-0.2918327  -0.06143437 -0.87868843]
+ [ 1.2733746   0.1599194   0.09696347]
+ [ 0.38563751  1.65601468 -0.57903994]
+ [-0.21037469  1.71145768  0.44773922]
+ [-1.07431502  0.25820693  1.30064222]]
+Final Potential Energy: -135.8566421206197
+
+33 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 165488793.58925 | Acceptance Rate 0.017
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 54538732.72872 | Acceptance Rate 0.009
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 429479.00138 | Acceptance Rate 0.025
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 27807.43736 | Acceptance Rate 0.025
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 196.45401 | Acceptance Rate 0.067
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -106.24446 | Acceptance Rate 0.039
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -106.24446 | Acceptance Rate 0.000
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -110.80561 | Acceptance Rate 0.012
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -113.52557 | Acceptance Rate 0.005
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -116.80092 | Acceptance Rate 0.011
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -118.78345 | Acceptance Rate 0.007
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -120.25975 | Acceptance Rate 0.007
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -122.49722 | Acceptance Rate 0.009
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -124.55880 | Acceptance Rate 0.011
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -126.61195 | Acceptance Rate 0.012
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -128.16943 | Acceptance Rate 0.013
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -129.10002 | Acceptance Rate 0.013
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -129.32118 | Acceptance Rate 0.005
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -130.13232 | Acceptance Rate 0.014
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -130.98205 | Acceptance Rate 0.016
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -132.21427 | Acceptance Rate 0.018
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -132.93204 | Acceptance Rate 0.022
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -133.75297 | Acceptance Rate 0.029
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -135.03693 | Acceptance Rate 0.036
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -136.29441 | Acceptance Rate 0.040
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -137.05907 | Acceptance Rate 0.037
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -137.77904 | Acceptance Rate 0.036
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -138.16388 | Acceptance Rate 0.035
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -138.46961 | Acceptance Rate 0.027
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -138.67059 | Acceptance Rate 0.022
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -138.73634 | Acceptance Rate 0.013
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -138.77515 | Acceptance Rate 0.011
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -138.81180 | Acceptance Rate 0.007
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -138.83696 | Acceptance Rate 0.009
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -138.85670 | Acceptance Rate 0.008
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -138.88368 | Acceptance Rate 0.009
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -138.90729 | Acceptance Rate 0.012
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -138.92376 | Acceptance Rate 0.011
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -138.94716 | Acceptance Rate 0.022
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -138.97260 | Acceptance Rate 0.026
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -138.99472 | Acceptance Rate 0.030
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -139.01316 | Acceptance Rate 0.027
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -139.03713 | Acceptance Rate 0.036
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -139.06142 | Acceptance Rate 0.048
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -139.08937 | Acceptance Rate 0.052
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -139.11380 | Acceptance Rate 0.057
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -139.15575 | Acceptance Rate 0.090
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -139.18492 | Acceptance Rate 0.084
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -139.22081 | Acceptance Rate 0.105
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -139.25700 | Acceptance Rate 0.130
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -139.29329 | Acceptance Rate 0.129
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -139.33526 | Acceptance Rate 0.190
+Iter  53000 | Temp 0.03757 | Step size 0.00019 | Best Energy -139.37113 | Acceptance Rate 0.175
+Iter  54000 | Temp 0.03381 | Step size 0.00019 | Best Energy -139.41061 | Acceptance Rate 0.205
+Iter  55000 | Temp 0.03043 | Step size 0.00019 | Best Energy -139.45124 | Acceptance Rate 0.201
+Iter  56000 | Temp 0.02739 | Step size 0.00019 | Best Energy -139.49453 | Acceptance Rate 0.211
+Iter  57000 | Temp 0.02465 | Step size 0.00019 | Best Energy -139.53607 | Acceptance Rate 0.204
+Iter  58000 | Temp 0.02219 | Step size 0.00019 | Best Energy -139.58835 | Acceptance Rate 0.250
+Iter  59000 | Temp 0.01997 | Step size 0.00019 | Best Energy -139.63851 | Acceptance Rate 0.234
+Iter  60000 | Temp 0.01797 | Step size 0.00019 | Best Energy -139.69563 | Acceptance Rate 0.231
+Iter  61000 | Temp 0.01617 | Step size 0.00019 | Best Energy -139.75877 | Acceptance Rate 0.272
+Iter  62000 | Temp 0.01456 | Step size 0.00019 | Best Energy -139.82397 | Acceptance Rate 0.239
+Iter  63000 | Temp 0.01310 | Step size 0.00019 | Best Energy -139.88776 | Acceptance Rate 0.230
+Iter  64000 | Temp 0.01179 | Step size 0.00019 | Best Energy -139.95181 | Acceptance Rate 0.231
+Iter  65000 | Temp 0.01061 | Step size 0.00019 | Best Energy -140.01302 | Acceptance Rate 0.240
+Iter  66000 | Temp 0.00955 | Step size 0.00019 | Best Energy -140.08142 | Acceptance Rate 0.257
+Best energy found: -140.08142
+Optimized Coordinates:
+ [[ 0.11284504 -0.50863813  2.0537144 ]
+ [ 0.86194635  1.03163065  0.09398018]
+ [-0.20933661  1.3263002  -0.5151363 ]
+ [-0.1539911   0.0469658   1.18036407]
+ [ 1.82826206  0.94987259 -0.41827059]
+ [-0.17188174  0.74725344 -1.43689833]
+ [-0.9234359   0.25827958  1.89890369]
+ [ 0.3438328  -0.89298929  0.93892008]
+ [ 2.06343495  1.36119936  0.59881621]
+ [ 1.53961467  0.94415009  1.53115889]
+ [-0.710671    2.16251725  1.03045435]
+ [ 1.45914556  1.93697483 -0.12309586]
+ [-0.5340823   1.09566075  1.27670741]
+ [-0.37527405 -0.36156571  0.18113384]
+ [ 0.2276262   1.80222807  1.61015637]
+ [ 0.11423548  1.71786798  0.49387254]
+ [ 0.46780577  2.15285703 -0.48183774]
+ [-0.87396554  0.44791201 -0.43401667]
+ [-1.00659644  1.3681405   0.29175878]
+ [-1.1162912   0.32189574  0.71402614]
+ [ 0.24002542  0.26377804 -0.55093996]
+ [ 0.62068968  0.02796839  0.44111074]
+ [ 0.55338059 -0.81996679 -0.21978104]
+ [ 0.14061365  0.63085739  2.0670013 ]
+ [ 1.29214841  0.01033167 -0.40249919]
+ [ 0.95754565 -0.06163768  1.4619396 ]
+ [-0.58283465  2.30904673 -0.10844059]
+ [ 1.38859025 -0.71271782  0.55237811]
+ [-0.17190683  0.70503861  0.34003796]
+ [ 0.55192422  0.88695146  1.10855163]
+ [ 1.11410549  1.79724841  0.92117404]
+ [ 1.61482459  0.37946068  0.59606012]
+ [ 0.8088578   1.15306957 -0.96268247]]
+Final Potential Energy: -140.08142180592182
+
+34 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 41954499.04762 | Acceptance Rate 0.022
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 737210.48415 | Acceptance Rate 0.019
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 215719.66942 | Acceptance Rate 0.013
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 13712.61252 | Acceptance Rate 0.034
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 886.90905 | Acceptance Rate 0.047
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy -95.32689 | Acceptance Rate 0.052
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -102.80499 | Acceptance Rate 0.010
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -105.45646 | Acceptance Rate 0.011
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -108.72292 | Acceptance Rate 0.010
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -108.76739 | Acceptance Rate 0.001
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -113.99058 | Acceptance Rate 0.014
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -117.25735 | Acceptance Rate 0.013
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -121.17107 | Acceptance Rate 0.017
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -123.54242 | Acceptance Rate 0.018
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -126.37585 | Acceptance Rate 0.014
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -128.05915 | Acceptance Rate 0.018
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -129.80071 | Acceptance Rate 0.017
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -130.95562 | Acceptance Rate 0.018
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -133.24463 | Acceptance Rate 0.024
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -134.90890 | Acceptance Rate 0.022
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -135.82458 | Acceptance Rate 0.014
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -136.45770 | Acceptance Rate 0.016
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -136.70277 | Acceptance Rate 0.006
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -137.08486 | Acceptance Rate 0.013
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -137.33994 | Acceptance Rate 0.013
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -138.06404 | Acceptance Rate 0.033
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -138.79425 | Acceptance Rate 0.034
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -139.55892 | Acceptance Rate 0.042
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -140.14547 | Acceptance Rate 0.037
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -140.80797 | Acceptance Rate 0.055
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -141.41518 | Acceptance Rate 0.056
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -141.97605 | Acceptance Rate 0.064
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -142.75201 | Acceptance Rate 0.091
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -143.45100 | Acceptance Rate 0.094
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -143.77581 | Acceptance Rate 0.069
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -144.01932 | Acceptance Rate 0.072
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -144.16252 | Acceptance Rate 0.056
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -144.23607 | Acceptance Rate 0.043
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -144.28602 | Acceptance Rate 0.038
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -144.35034 | Acceptance Rate 0.052
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -144.39672 | Acceptance Rate 0.039
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -144.44021 | Acceptance Rate 0.043
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -144.49270 | Acceptance Rate 0.062
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -144.58416 | Acceptance Rate 0.103
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -144.63603 | Acceptance Rate 0.071
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -144.69447 | Acceptance Rate 0.094
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -144.75782 | Acceptance Rate 0.118
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -144.80664 | Acceptance Rate 0.110
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -144.85703 | Acceptance Rate 0.130
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -144.89944 | Acceptance Rate 0.144
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -144.94896 | Acceptance Rate 0.159
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -144.99280 | Acceptance Rate 0.167
+Iter  53000 | Temp 0.03757 | Step size 0.00021 | Best Energy -145.05333 | Acceptance Rate 0.224
+Iter  54000 | Temp 0.03381 | Step size 0.00021 | Best Energy -145.13642 | Acceptance Rate 0.248
+Iter  55000 | Temp 0.03043 | Step size 0.00021 | Best Energy -145.24624 | Acceptance Rate 0.280
+Iter  56000 | Temp 0.02739 | Step size 0.00021 | Best Energy -145.39438 | Acceptance Rate 0.300
+Iter  57000 | Temp 0.02465 | Step size 0.00021 | Best Energy -145.56194 | Acceptance Rate 0.304
+Iter  58000 | Temp 0.02219 | Step size 0.00021 | Best Energy -145.75861 | Acceptance Rate 0.336
+Iter  59000 | Temp 0.01997 | Step size 0.00021 | Best Energy -145.96600 | Acceptance Rate 0.334
+Iter  60000 | Temp 0.01797 | Step size 0.00021 | Best Energy -146.08327 | Acceptance Rate 0.285
+Iter  61000 | Temp 0.01617 | Step size 0.00021 | Best Energy -146.15002 | Acceptance Rate 0.224
+Iter  62000 | Temp 0.01456 | Step size 0.00019 | Best Energy -146.18475 | Acceptance Rate 0.165
+Iter  63000 | Temp 0.01310 | Step size 0.00017 | Best Energy -146.20468 | Acceptance Rate 0.143
+Iter  64000 | Temp 0.01179 | Step size 0.00015 | Best Energy -146.21429 | Acceptance Rate 0.091
+Iter  65000 | Temp 0.01061 | Step size 0.00014 | Best Energy -146.22385 | Acceptance Rate 0.121
+Iter  66000 | Temp 0.00955 | Step size 0.00012 | Best Energy -146.23127 | Acceptance Rate 0.117
+Iter  67000 | Temp 0.00860 | Step size 0.00011 | Best Energy -146.23577 | Acceptance Rate 0.092
+Iter  68000 | Temp 0.00774 | Step size 0.00010 | Best Energy -146.23923 | Acceptance Rate 0.086
+Best energy found: -146.23923
+Optimized Coordinates:
+ [[-1.62401010e-01  5.75084991e-01  2.05523911e+00]
+ [ 1.93084792e-01  1.27973435e+00  1.23548076e+00]
+ [-3.54577035e-01 -4.79873011e-01  2.95976876e-01]
+ [ 4.33791266e-02  1.99753385e+00 -2.55121072e-01]
+ [ 1.55047088e+00 -2.15187726e-01  2.11395657e+00]
+ [ 9.76503703e-01 -1.02826009e+00  4.14774403e-01]
+ [ 1.60439585e-01 -8.63149838e-01  1.14529898e+00]
+ [ 3.19031135e-01 -8.20682254e-01 -5.28670512e-01]
+ [-7.87986121e-01 -1.96682003e-01  1.34348869e+00]
+ [ 8.23506535e-04 -1.53010458e+00  2.72491882e-01]
+ [ 1.41658253e+00 -5.49016976e-01 -4.79972301e-01]
+ [-8.84527923e-01  9.52198740e-01  1.36658477e+00]
+ [ 1.18215271e-01  2.41936277e-01  1.02770605e+00]
+ [ 1.08894041e+00 -2.20651022e-01  1.12950144e+00]
+ [-7.03119649e-01  1.20342738e+00 -4.80286418e-01]
+ [ 1.89754880e+00  5.49140868e-01  1.35563602e+00]
+ [-7.79743869e-01  5.07996808e-01  3.94348847e-01]
+ [ 1.96217383e+00  1.20512792e+00  4.44182122e-01]
+ [ 9.94440147e-01  1.71245088e+00  2.10081857e-01]
+ [ 1.02751552e+00  7.67486462e-01  7.44319748e-01]
+ [ 2.66778662e-01  2.26752493e+00  8.14873854e-01]
+ [-5.37302717e-01  2.00484209e+00  1.58668704e+00]
+ [ 1.23142823e+00  7.81757140e-01 -3.28288273e-01]
+ [ 7.33295053e-01  9.72539862e-02 -1.02815445e+00]
+ [ 3.42496946e-01  1.13048614e+00 -8.90928377e-01]
+ [-6.17163792e-01  1.62368815e+00  5.44938062e-01]
+ [ 1.10684881e+00 -1.17511506e+00  1.62705260e+00]
+ [ 6.46092829e-01 -2.44129962e-02  1.19640415e-01]
+ [ 1.24926557e+00  1.64691110e+00  1.30536297e+00]
+ [ 1.72160799e-01  9.71684487e-01  1.66022363e-01]
+ [ 1.77352726e+00  8.07271456e-02  3.40151426e-01]
+ [ 9.02368421e-01  6.60009987e-01  1.81143215e+00]
+ [ 4.47577371e-01 -3.22794234e-01  2.02561748e+00]
+ [-2.21427901e-01  2.11908640e-01 -5.30205591e-01]]
+Final Potential Energy: -146.2392260461958
+
+35 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 620418958.51428 | Acceptance Rate 0.024
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 40799218.44343 | Acceptance Rate 0.014
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 36966760.47547 | Acceptance Rate 0.001
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 4474187.79175 | Acceptance Rate 0.020
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 122662.16404 | Acceptance Rate 0.040
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy 13567.76399 | Acceptance Rate 0.039
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy 95.43174 | Acceptance Rate 0.081
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -109.33274 | Acceptance Rate 0.052
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -114.54577 | Acceptance Rate 0.014
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -118.56784 | Acceptance Rate 0.013
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -119.62789 | Acceptance Rate 0.010
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -121.13246 | Acceptance Rate 0.007
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -123.67616 | Acceptance Rate 0.014
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -125.93091 | Acceptance Rate 0.023
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -128.10246 | Acceptance Rate 0.019
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -130.79788 | Acceptance Rate 0.020
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -132.30317 | Acceptance Rate 0.013
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -132.99353 | Acceptance Rate 0.013
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -134.16912 | Acceptance Rate 0.015
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -134.85303 | Acceptance Rate 0.010
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -135.62635 | Acceptance Rate 0.020
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -136.44741 | Acceptance Rate 0.021
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -136.82646 | Acceptance Rate 0.017
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -137.82433 | Acceptance Rate 0.031
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -138.47675 | Acceptance Rate 0.022
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -138.70479 | Acceptance Rate 0.016
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -139.02041 | Acceptance Rate 0.022
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -139.57258 | Acceptance Rate 0.040
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -140.34894 | Acceptance Rate 0.058
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -141.30891 | Acceptance Rate 0.066
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -142.11077 | Acceptance Rate 0.074
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -142.88503 | Acceptance Rate 0.078
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -143.39685 | Acceptance Rate 0.072
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -143.94152 | Acceptance Rate 0.084
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -144.45385 | Acceptance Rate 0.097
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -144.99987 | Acceptance Rate 0.088
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -145.37878 | Acceptance Rate 0.096
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -145.70275 | Acceptance Rate 0.104
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -146.16094 | Acceptance Rate 0.139
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -146.53444 | Acceptance Rate 0.133
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -147.04839 | Acceptance Rate 0.177
+Iter  42000 | Temp 0.11973 | Step size 0.00067 | Best Energy -147.59077 | Acceptance Rate 0.209
+Iter  43000 | Temp 0.10775 | Step size 0.00060 | Best Energy -147.90700 | Acceptance Rate 0.152
+Iter  44000 | Temp 0.09698 | Step size 0.00054 | Best Energy -148.14938 | Acceptance Rate 0.160
+Iter  45000 | Temp 0.08728 | Step size 0.00048 | Best Energy -148.30335 | Acceptance Rate 0.124
+Iter  46000 | Temp 0.07855 | Step size 0.00044 | Best Energy -148.42273 | Acceptance Rate 0.122
+Iter  47000 | Temp 0.07070 | Step size 0.00039 | Best Energy -148.52925 | Acceptance Rate 0.121
+Iter  48000 | Temp 0.06363 | Step size 0.00035 | Best Energy -148.62667 | Acceptance Rate 0.146
+Iter  49000 | Temp 0.05726 | Step size 0.00032 | Best Energy -148.76230 | Acceptance Rate 0.189
+Iter  50000 | Temp 0.05154 | Step size 0.00032 | Best Energy -148.90325 | Acceptance Rate 0.216
+Iter  51000 | Temp 0.04638 | Step size 0.00032 | Best Energy -149.04546 | Acceptance Rate 0.229
+Iter  52000 | Temp 0.04175 | Step size 0.00029 | Best Energy -149.17686 | Acceptance Rate 0.196
+Iter  53000 | Temp 0.03757 | Step size 0.00029 | Best Energy -149.28690 | Acceptance Rate 0.203
+Iter  54000 | Temp 0.03381 | Step size 0.00026 | Best Energy -149.39059 | Acceptance Rate 0.194
+Iter  55000 | Temp 0.03043 | Step size 0.00026 | Best Energy -149.48102 | Acceptance Rate 0.206
+Iter  56000 | Temp 0.02739 | Step size 0.00026 | Best Energy -149.57951 | Acceptance Rate 0.229
+Iter  57000 | Temp 0.02465 | Step size 0.00026 | Best Energy -149.67679 | Acceptance Rate 0.230
+Iter  58000 | Temp 0.02219 | Step size 0.00026 | Best Energy -149.78139 | Acceptance Rate 0.234
+Iter  59000 | Temp 0.01997 | Step size 0.00026 | Best Energy -149.86520 | Acceptance Rate 0.205
+Iter  60000 | Temp 0.01797 | Step size 0.00023 | Best Energy -149.93732 | Acceptance Rate 0.172
+Iter  61000 | Temp 0.01617 | Step size 0.00023 | Best Energy -150.03581 | Acceptance Rate 0.241
+Iter  62000 | Temp 0.01456 | Step size 0.00023 | Best Energy -150.12934 | Acceptance Rate 0.230
+Iter  63000 | Temp 0.01310 | Step size 0.00023 | Best Energy -150.21823 | Acceptance Rate 0.233
+Iter  64000 | Temp 0.01179 | Step size 0.00023 | Best Energy -150.28457 | Acceptance Rate 0.203
+Iter  65000 | Temp 0.01061 | Step size 0.00023 | Best Energy -150.35151 | Acceptance Rate 0.211
+Iter  66000 | Temp 0.00955 | Step size 0.00021 | Best Energy -150.40426 | Acceptance Rate 0.177
+Iter  67000 | Temp 0.00860 | Step size 0.00019 | Best Energy -150.45570 | Acceptance Rate 0.197
+Iter  68000 | Temp 0.00774 | Step size 0.00019 | Best Energy -150.49679 | Acceptance Rate 0.207
+Iter  69000 | Temp 0.00696 | Step size 0.00019 | Best Energy -150.53738 | Acceptance Rate 0.200
+Iter  70000 | Temp 0.00627 | Step size 0.00017 | Best Energy -150.57104 | Acceptance Rate 0.177
+Best energy found: -150.57104
+Optimized Coordinates:
+ [[-0.82279963  0.68129007  0.38580991]
+ [ 1.40447423  1.27447421 -0.93042268]
+ [ 1.49710325 -0.57027568 -0.29976651]
+ [ 0.28927223 -0.53330593 -0.47602357]
+ [-0.10488882  0.22917804 -1.20587708]
+ [ 1.77306744  1.05757673  0.7725646 ]
+ [-0.34910161  0.37769556  2.41449656]
+ [ 0.07063316  0.47443915 -0.17516146]
+ [ 0.93975173  1.0512148   0.05770946]
+ [-0.7042265   0.32380306  1.37733188]
+ [ 1.9185551  -0.07228569  0.72988799]
+ [-0.09762248 -0.26572779  0.57932659]
+ [ 0.21416031  0.70533144  0.84976293]
+ [ 0.00959386 -1.12207925  1.21896061]
+ [-1.0382756  -0.64823626  0.89515959]
+ [ 0.90798232  0.02213028  0.35417172]
+ [ 0.75766041  1.63530808  0.94455217]
+ [ 0.69869463 -1.07905252  0.34675866]
+ [-0.6628358  -0.6189274   1.95470724]
+ [ 0.25019605 -0.10436213  1.61962134]
+ [-0.74607503  0.98110129 -0.66886724]
+ [ 1.43755213  1.3838733   1.78957571]
+ [-0.49124452  1.42386441  1.21070158]
+ [ 0.31678171  1.26052987 -0.86538573]
+ [ 2.17116042  0.51866208  1.65708008]
+ [ 1.84790089  0.52133261 -0.19522926]
+ [ 0.94476421  0.29046042 -0.77233281]
+ [ 1.12797171  0.43845491  1.34340702]
+ [ 1.10932839 -0.64981661  1.24186884]
+ [ 1.82505658  1.7453417  -0.04815169]
+ [ 0.35327596  1.03870436  1.85795477]
+ [-0.09036464  1.50158147  0.15965972]
+ [ 0.77829051  2.07502464 -0.21797783]
+ [-0.39893608 -1.1959477   0.13259208]
+ [-0.76842098 -0.20035977 -0.30125173]]
+Final Potential Energy: -150.57104124524463
+
+36 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 564332598.44284 | Acceptance Rate 0.025
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 6868658.48684 | Acceptance Rate 0.018
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 511146.67265 | Acceptance Rate 0.019
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 109427.45012 | Acceptance Rate 0.020
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 10027.35458 | Acceptance Rate 0.033
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy 277.96267 | Acceptance Rate 0.058
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy -109.35321 | Acceptance Rate 0.048
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -113.19209 | Acceptance Rate 0.008
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -117.55245 | Acceptance Rate 0.007
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -121.03079 | Acceptance Rate 0.008
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -122.61891 | Acceptance Rate 0.008
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -124.18523 | Acceptance Rate 0.009
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -126.15191 | Acceptance Rate 0.008
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -128.28092 | Acceptance Rate 0.011
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -130.22607 | Acceptance Rate 0.013
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -133.16434 | Acceptance Rate 0.026
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -134.74731 | Acceptance Rate 0.017
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -138.75707 | Acceptance Rate 0.036
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -141.35743 | Acceptance Rate 0.029
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -143.01110 | Acceptance Rate 0.026
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -143.72314 | Acceptance Rate 0.013
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -144.48754 | Acceptance Rate 0.018
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -144.91578 | Acceptance Rate 0.011
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -145.16380 | Acceptance Rate 0.008
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -145.45170 | Acceptance Rate 0.015
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -145.98862 | Acceptance Rate 0.032
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -146.46470 | Acceptance Rate 0.021
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -146.74076 | Acceptance Rate 0.020
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -147.12699 | Acceptance Rate 0.038
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -147.94086 | Acceptance Rate 0.054
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -149.30316 | Acceptance Rate 0.103
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -149.78684 | Acceptance Rate 0.052
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -149.94941 | Acceptance Rate 0.036
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -150.09494 | Acceptance Rate 0.034
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -150.16760 | Acceptance Rate 0.026
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -150.28617 | Acceptance Rate 0.045
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -150.40147 | Acceptance Rate 0.045
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -150.51812 | Acceptance Rate 0.052
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -150.70295 | Acceptance Rate 0.066
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -150.86810 | Acceptance Rate 0.081
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -151.09662 | Acceptance Rate 0.110
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -151.34394 | Acceptance Rate 0.129
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -151.66099 | Acceptance Rate 0.181
+Iter  44000 | Temp 0.09698 | Step size 0.00054 | Best Energy -152.00300 | Acceptance Rate 0.204
+Iter  45000 | Temp 0.08728 | Step size 0.00054 | Best Energy -152.37580 | Acceptance Rate 0.206
+Iter  46000 | Temp 0.07855 | Step size 0.00054 | Best Energy -152.84864 | Acceptance Rate 0.225
+Iter  47000 | Temp 0.07070 | Step size 0.00054 | Best Energy -153.33479 | Acceptance Rate 0.227
+Iter  48000 | Temp 0.06363 | Step size 0.00054 | Best Energy -153.82825 | Acceptance Rate 0.234
+Iter  49000 | Temp 0.05726 | Step size 0.00048 | Best Energy -154.24613 | Acceptance Rate 0.199
+Iter  50000 | Temp 0.05154 | Step size 0.00048 | Best Energy -154.53629 | Acceptance Rate 0.201
+Iter  51000 | Temp 0.04638 | Step size 0.00044 | Best Energy -154.73482 | Acceptance Rate 0.180
+Iter  52000 | Temp 0.04175 | Step size 0.00039 | Best Energy -154.85176 | Acceptance Rate 0.144
+Iter  53000 | Temp 0.03757 | Step size 0.00035 | Best Energy -154.94742 | Acceptance Rate 0.144
+Iter  54000 | Temp 0.03381 | Step size 0.00032 | Best Energy -155.01886 | Acceptance Rate 0.142
+Iter  55000 | Temp 0.03043 | Step size 0.00029 | Best Energy -155.06831 | Acceptance Rate 0.135
+Iter  56000 | Temp 0.02739 | Step size 0.00026 | Best Energy -155.10192 | Acceptance Rate 0.109
+Iter  57000 | Temp 0.02465 | Step size 0.00023 | Best Energy -155.12864 | Acceptance Rate 0.104
+Iter  58000 | Temp 0.02219 | Step size 0.00021 | Best Energy -155.14339 | Acceptance Rate 0.081
+Iter  59000 | Temp 0.01997 | Step size 0.00019 | Best Energy -155.15532 | Acceptance Rate 0.087
+Iter  60000 | Temp 0.01797 | Step size 0.00017 | Best Energy -155.16538 | Acceptance Rate 0.099
+Iter  61000 | Temp 0.01617 | Step size 0.00015 | Best Energy -155.17174 | Acceptance Rate 0.080
+Iter  62000 | Temp 0.01456 | Step size 0.00014 | Best Energy -155.17840 | Acceptance Rate 0.090
+Iter  63000 | Temp 0.01310 | Step size 0.00012 | Best Energy -155.18312 | Acceptance Rate 0.078
+Iter  64000 | Temp 0.01179 | Step size 0.00011 | Best Energy -155.18857 | Acceptance Rate 0.101
+Iter  65000 | Temp 0.01061 | Step size 0.00010 | Best Energy -155.19452 | Acceptance Rate 0.118
+Iter  66000 | Temp 0.00955 | Step size 0.00009 | Best Energy -155.20025 | Acceptance Rate 0.132
+Iter  67000 | Temp 0.00860 | Step size 0.00008 | Best Energy -155.20647 | Acceptance Rate 0.159
+Iter  68000 | Temp 0.00774 | Step size 0.00007 | Best Energy -155.21347 | Acceptance Rate 0.198
+Iter  69000 | Temp 0.00696 | Step size 0.00007 | Best Energy -155.22052 | Acceptance Rate 0.216
+Iter  70000 | Temp 0.00627 | Step size 0.00007 | Best Energy -155.22750 | Acceptance Rate 0.199
+Iter  71000 | Temp 0.00564 | Step size 0.00007 | Best Energy -155.23556 | Acceptance Rate 0.232
+Iter  72000 | Temp 0.00508 | Step size 0.00007 | Best Energy -155.24457 | Acceptance Rate 0.234
+Best energy found: -155.24457
+Optimized Coordinates:
+ [[ 1.36651215 -0.30795301  1.50859164]
+ [-0.44820931 -0.01766919  1.58904022]
+ [ 2.28640731  1.45082832  0.1357839 ]
+ [-0.86670897  0.62469514 -0.19397374]
+ [ 1.83556833 -0.27817969  0.52544589]
+ [ 1.18674692  0.76842035  1.70824465]
+ [-0.16351803  1.82830673  1.11768797]
+ [ 0.51390777  0.05349683  2.20821537]
+ [-0.097459   -0.07187745  0.23913708]
+ [ 0.96093409  0.59579415 -0.90570656]
+ [ 0.78272622 -0.7292818   0.51509271]
+ [ 0.40507479 -0.30516871 -0.67367129]
+ [-0.16594032  0.54802444 -1.06806829]
+ [ 1.44063162 -0.51373624 -0.46352062]
+ [ 0.65841432  1.15424234  0.8139755 ]
+ [ 1.45437691  1.88504455  0.78541256]
+ [-0.03886169 -1.13390796 -0.11027157]
+ [ 0.45589281  1.60832643 -0.90570403]
+ [-1.03639376  0.93609816  1.61392202]
+ [ 0.48907873  0.15491406  1.10585559]
+ [ 0.07603477  0.95557522  1.75360234]
+ [-1.11342182  0.01441023  0.69883812]
+ [ 0.38272233 -0.83238233  1.55897911]
+ [-0.3705273   0.80463659  0.78341047]
+ [-0.4597073  -0.86882218  0.87197283]
+ [ 1.67862515  0.78085135  0.75611755]
+ [ 0.18422956  0.93059932 -0.12815883]
+ [ 2.69036278  0.45172365  0.48676608]
+ [-0.70207434 -0.37661502 -0.61484371]
+ [ 0.44563708  2.00638997  0.18044875]
+ [ 0.95507274  0.2646642   0.14241963]
+ [ 1.92272189  0.48054587 -0.31403329]
+ [ 1.22415414  1.30899377 -0.12666565]
+ [-0.59792494  1.65719309  0.10467614]
+ [ 0.79570587  1.79918123  1.69736945]
+ [ 0.70922459  1.11210929  2.63105823]]
+Final Potential Energy: -155.24457499381217
+
+37 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 5636928536.65468 | Acceptance Rate 0.010
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 532717817.41851 | Acceptance Rate 0.010
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 13803558.65724 | Acceptance Rate 0.018
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 1582946.12323 | Acceptance Rate 0.012
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 577856.85480 | Acceptance Rate 0.011
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy 35737.50460 | Acceptance Rate 0.049
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy 1807.89868 | Acceptance Rate 0.061
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy -69.14102 | Acceptance Rate 0.075
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -115.65400 | Acceptance Rate 0.032
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -121.63469 | Acceptance Rate 0.014
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -127.91278 | Acceptance Rate 0.022
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -130.98600 | Acceptance Rate 0.011
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -136.16669 | Acceptance Rate 0.019
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -137.51709 | Acceptance Rate 0.003
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -139.45382 | Acceptance Rate 0.013
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -139.69887 | Acceptance Rate 0.003
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -141.27107 | Acceptance Rate 0.015
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -144.11367 | Acceptance Rate 0.023
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -146.91499 | Acceptance Rate 0.038
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -148.90371 | Acceptance Rate 0.025
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -149.84705 | Acceptance Rate 0.018
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -150.17773 | Acceptance Rate 0.010
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -151.04512 | Acceptance Rate 0.018
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -151.39359 | Acceptance Rate 0.016
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -151.73868 | Acceptance Rate 0.019
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -152.02654 | Acceptance Rate 0.015
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -152.21217 | Acceptance Rate 0.014
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -152.48113 | Acceptance Rate 0.022
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -152.85700 | Acceptance Rate 0.030
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -153.20985 | Acceptance Rate 0.027
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -153.51177 | Acceptance Rate 0.028
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -153.63629 | Acceptance Rate 0.017
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -153.86906 | Acceptance Rate 0.038
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -154.05282 | Acceptance Rate 0.039
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -154.24394 | Acceptance Rate 0.041
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -154.52642 | Acceptance Rate 0.064
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -154.78915 | Acceptance Rate 0.077
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -155.03363 | Acceptance Rate 0.083
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -155.20677 | Acceptance Rate 0.069
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -155.37337 | Acceptance Rate 0.072
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -155.47293 | Acceptance Rate 0.063
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -155.57690 | Acceptance Rate 0.076
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -155.70922 | Acceptance Rate 0.113
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -155.83638 | Acceptance Rate 0.111
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -155.95939 | Acceptance Rate 0.130
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -156.11159 | Acceptance Rate 0.179
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -156.26453 | Acceptance Rate 0.175
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -156.39012 | Acceptance Rate 0.176
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -156.48126 | Acceptance Rate 0.172
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -156.56228 | Acceptance Rate 0.153
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -156.63316 | Acceptance Rate 0.180
+Iter  52000 | Temp 0.04175 | Step size 0.00023 | Best Energy -156.69632 | Acceptance Rate 0.202
+Iter  53000 | Temp 0.03757 | Step size 0.00021 | Best Energy -156.73499 | Acceptance Rate 0.133
+Iter  54000 | Temp 0.03381 | Step size 0.00019 | Best Energy -156.78036 | Acceptance Rate 0.184
+Iter  55000 | Temp 0.03043 | Step size 0.00017 | Best Energy -156.81821 | Acceptance Rate 0.194
+Iter  56000 | Temp 0.02739 | Step size 0.00015 | Best Energy -156.85326 | Acceptance Rate 0.191
+Iter  57000 | Temp 0.02465 | Step size 0.00015 | Best Energy -156.88537 | Acceptance Rate 0.207
+Iter  58000 | Temp 0.02219 | Step size 0.00015 | Best Energy -156.91641 | Acceptance Rate 0.221
+Iter  59000 | Temp 0.01997 | Step size 0.00014 | Best Energy -156.94339 | Acceptance Rate 0.183
+Iter  60000 | Temp 0.01797 | Step size 0.00014 | Best Energy -156.97380 | Acceptance Rate 0.223
+Iter  61000 | Temp 0.01617 | Step size 0.00014 | Best Energy -157.00446 | Acceptance Rate 0.230
+Iter  62000 | Temp 0.01456 | Step size 0.00014 | Best Energy -157.03770 | Acceptance Rate 0.242
+Iter  63000 | Temp 0.01310 | Step size 0.00014 | Best Energy -157.06737 | Acceptance Rate 0.225
+Iter  64000 | Temp 0.01179 | Step size 0.00014 | Best Energy -157.10684 | Acceptance Rate 0.252
+Iter  65000 | Temp 0.01061 | Step size 0.00014 | Best Energy -157.14778 | Acceptance Rate 0.250
+Iter  66000 | Temp 0.00955 | Step size 0.00014 | Best Energy -157.19419 | Acceptance Rate 0.284
+Iter  67000 | Temp 0.00860 | Step size 0.00014 | Best Energy -157.25163 | Acceptance Rate 0.298
+Iter  68000 | Temp 0.00774 | Step size 0.00014 | Best Energy -157.31732 | Acceptance Rate 0.300
+Iter  69000 | Temp 0.00696 | Step size 0.00014 | Best Energy -157.39184 | Acceptance Rate 0.328
+Iter  70000 | Temp 0.00627 | Step size 0.00014 | Best Energy -157.46717 | Acceptance Rate 0.308
+Iter  71000 | Temp 0.00564 | Step size 0.00014 | Best Energy -157.54027 | Acceptance Rate 0.310
+Iter  72000 | Temp 0.00508 | Step size 0.00014 | Best Energy -157.60903 | Acceptance Rate 0.305
+Iter  73000 | Temp 0.00457 | Step size 0.00014 | Best Energy -157.68019 | Acceptance Rate 0.307
+Iter  74000 | Temp 0.00411 | Step size 0.00014 | Best Energy -157.75590 | Acceptance Rate 0.321
+Best energy found: -157.75590
+Optimized Coordinates:
+ [[-0.60727649  1.29695695  0.84377318]
+ [ 1.41370093  1.49654417  0.99823132]
+ [ 0.9552857   0.25120202  2.19259753]
+ [-0.16821212  0.54520964 -1.17993892]
+ [ 1.35023102  0.91295865  0.06578263]
+ [ 0.26742279 -0.00240467  0.51679811]
+ [-0.78718333  0.21701003  0.611045  ]
+ [ 2.09099755  1.71029152  0.16437298]
+ [ 1.56634152  0.07959197 -0.72176987]
+ [-0.39917344  0.87353525 -0.16487845]
+ [-1.14737024 -0.714044    0.11255597]
+ [ 2.34485539  0.75809238 -0.33497058]
+ [ 0.72996524 -0.68023034 -0.44291342]
+ [ 1.02492066  0.49750749  1.11032632]
+ [ 1.53551582  1.52000537 -0.79587721]
+ [-0.29813383 -0.23262493 -0.37541197]
+ [ 1.63816636 -0.32162368  1.39264759]
+ [ 1.81431346  0.81192691  1.79469473]
+ [ 2.08350699  0.55228522  0.75978502]
+ [ 0.40272705  1.08956583  0.49555888]
+ [ 1.8103681  -1.08338074  0.57659305]
+ [ 0.57747337  0.38738956 -0.40666718]
+ [ 0.94642354  0.74305861 -1.36847009]
+ [-0.14854568  1.95915696  0.09316137]
+ [ 0.37254099  1.98270117  1.08314206]
+ [ 0.70082433 -1.0168179   0.60199572]
+ [-0.01619661  0.55770959  1.41799476]
+ [ 1.32845226 -0.14574584  0.30977883]
+ [ 0.43537433  1.41167516 -0.65051644]
+ [ 2.06570434  0.77650301 -1.41863229]
+ [-1.25808343  0.26335971 -0.45768375]
+ [-0.15773297 -1.26570224 -0.0556821 ]
+ [ 0.9844242   1.96501369  0.11085923]
+ [-0.30181912  1.54437905  1.87088502]
+ [ 0.75805812  1.2664696   1.83377455]
+ [-0.37563291 -0.77639983  0.91158141]
+ [ 0.51133017 -0.42822627  1.48978348]]
+Final Potential Energy: -157.75590006146942
+
+38 molecules
+Iter   1000 | Temp 9.00000 | Step size 0.04500 | Best Energy 511669621.35766 | Acceptance Rate 0.017
+Iter   2000 | Temp 8.10000 | Step size 0.04050 | Best Energy 39359528.72915 | Acceptance Rate 0.011
+Iter   3000 | Temp 7.29000 | Step size 0.03645 | Best Energy 35937465.41382 | Acceptance Rate 0.002
+Iter   4000 | Temp 6.56100 | Step size 0.03281 | Best Energy 3726623.44093 | Acceptance Rate 0.016
+Iter   5000 | Temp 5.90490 | Step size 0.02952 | Best Energy 766449.79496 | Acceptance Rate 0.019
+Iter   6000 | Temp 5.31441 | Step size 0.02657 | Best Energy 174787.95611 | Acceptance Rate 0.025
+Iter   7000 | Temp 4.78297 | Step size 0.02391 | Best Energy 6623.20538 | Acceptance Rate 0.059
+Iter   8000 | Temp 4.30467 | Step size 0.02152 | Best Energy 41.61441 | Acceptance Rate 0.078
+Iter   9000 | Temp 3.87420 | Step size 0.01937 | Best Energy -116.48547 | Acceptance Rate 0.048
+Iter  10000 | Temp 3.48678 | Step size 0.01743 | Best Energy -131.27138 | Acceptance Rate 0.023
+Iter  11000 | Temp 3.13811 | Step size 0.01569 | Best Energy -136.89599 | Acceptance Rate 0.012
+Iter  12000 | Temp 2.82430 | Step size 0.01412 | Best Energy -139.93418 | Acceptance Rate 0.013
+Iter  13000 | Temp 2.54187 | Step size 0.01271 | Best Energy -143.82578 | Acceptance Rate 0.021
+Iter  14000 | Temp 2.28768 | Step size 0.01144 | Best Energy -145.96616 | Acceptance Rate 0.012
+Iter  15000 | Temp 2.05891 | Step size 0.01029 | Best Energy -148.87034 | Acceptance Rate 0.013
+Iter  16000 | Temp 1.85302 | Step size 0.00927 | Best Energy -150.01208 | Acceptance Rate 0.009
+Iter  17000 | Temp 1.66772 | Step size 0.00834 | Best Energy -150.92466 | Acceptance Rate 0.012
+Iter  18000 | Temp 1.50095 | Step size 0.00750 | Best Energy -152.27033 | Acceptance Rate 0.014
+Iter  19000 | Temp 1.35085 | Step size 0.00675 | Best Energy -152.67067 | Acceptance Rate 0.010
+Iter  20000 | Temp 1.21577 | Step size 0.00608 | Best Energy -153.37627 | Acceptance Rate 0.016
+Iter  21000 | Temp 1.09419 | Step size 0.00547 | Best Energy -153.77947 | Acceptance Rate 0.009
+Iter  22000 | Temp 0.98477 | Step size 0.00492 | Best Energy -154.60020 | Acceptance Rate 0.018
+Iter  23000 | Temp 0.88629 | Step size 0.00443 | Best Energy -155.37858 | Acceptance Rate 0.014
+Iter  24000 | Temp 0.79766 | Step size 0.00399 | Best Energy -155.86014 | Acceptance Rate 0.013
+Iter  25000 | Temp 0.71790 | Step size 0.00359 | Best Energy -156.26497 | Acceptance Rate 0.014
+Iter  26000 | Temp 0.64611 | Step size 0.00323 | Best Energy -156.70458 | Acceptance Rate 0.022
+Iter  27000 | Temp 0.58150 | Step size 0.00291 | Best Energy -157.01836 | Acceptance Rate 0.020
+Iter  28000 | Temp 0.52335 | Step size 0.00262 | Best Energy -157.57388 | Acceptance Rate 0.039
+Iter  29000 | Temp 0.47101 | Step size 0.00236 | Best Energy -158.12114 | Acceptance Rate 0.038
+Iter  30000 | Temp 0.42391 | Step size 0.00212 | Best Energy -158.47514 | Acceptance Rate 0.034
+Iter  31000 | Temp 0.38152 | Step size 0.00191 | Best Energy -159.08343 | Acceptance Rate 0.052
+Iter  32000 | Temp 0.34337 | Step size 0.00172 | Best Energy -159.66041 | Acceptance Rate 0.054
+Iter  33000 | Temp 0.30903 | Step size 0.00155 | Best Energy -160.30496 | Acceptance Rate 0.078
+Iter  34000 | Temp 0.27813 | Step size 0.00139 | Best Energy -160.80372 | Acceptance Rate 0.072
+Iter  35000 | Temp 0.25032 | Step size 0.00125 | Best Energy -161.33191 | Acceptance Rate 0.088
+Iter  36000 | Temp 0.22528 | Step size 0.00113 | Best Energy -161.94357 | Acceptance Rate 0.111
+Iter  37000 | Temp 0.20276 | Step size 0.00101 | Best Energy -162.64363 | Acceptance Rate 0.137
+Iter  38000 | Temp 0.18248 | Step size 0.00091 | Best Energy -163.62640 | Acceptance Rate 0.162
+Iter  39000 | Temp 0.16423 | Step size 0.00082 | Best Energy -164.29044 | Acceptance Rate 0.150
+Iter  40000 | Temp 0.14781 | Step size 0.00074 | Best Energy -164.62236 | Acceptance Rate 0.118
+Iter  41000 | Temp 0.13303 | Step size 0.00067 | Best Energy -164.92412 | Acceptance Rate 0.126
+Iter  42000 | Temp 0.11973 | Step size 0.00060 | Best Energy -165.08118 | Acceptance Rate 0.096
+Iter  43000 | Temp 0.10775 | Step size 0.00054 | Best Energy -165.27364 | Acceptance Rate 0.132
+Iter  44000 | Temp 0.09698 | Step size 0.00048 | Best Energy -165.41950 | Acceptance Rate 0.119
+Iter  45000 | Temp 0.08728 | Step size 0.00044 | Best Energy -165.51818 | Acceptance Rate 0.106
+Iter  46000 | Temp 0.07855 | Step size 0.00039 | Best Energy -165.61439 | Acceptance Rate 0.125
+Iter  47000 | Temp 0.07070 | Step size 0.00035 | Best Energy -165.67414 | Acceptance Rate 0.081
+Iter  48000 | Temp 0.06363 | Step size 0.00032 | Best Energy -165.71533 | Acceptance Rate 0.088
+Iter  49000 | Temp 0.05726 | Step size 0.00029 | Best Energy -165.74689 | Acceptance Rate 0.104
+Iter  50000 | Temp 0.05154 | Step size 0.00026 | Best Energy -165.77467 | Acceptance Rate 0.097
+Iter  51000 | Temp 0.04638 | Step size 0.00023 | Best Energy -165.80363 | Acceptance Rate 0.108
+Iter  52000 | Temp 0.04175 | Step size 0.00021 | Best Energy -165.82663 | Acceptance Rate 0.094
+Iter  53000 | Temp 0.03757 | Step size 0.00019 | Best Energy -165.84962 | Acceptance Rate 0.123
+Iter  54000 | Temp 0.03381 | Step size 0.00017 | Best Energy -165.87526 | Acceptance Rate 0.142
+Iter  55000 | Temp 0.03043 | Step size 0.00015 | Best Energy -165.90924 | Acceptance Rate 0.189
+Iter  56000 | Temp 0.02739 | Step size 0.00015 | Best Energy -165.94900 | Acceptance Rate 0.221
+Iter  57000 | Temp 0.02465 | Step size 0.00015 | Best Energy -165.99078 | Acceptance Rate 0.228
+Iter  58000 | Temp 0.02219 | Step size 0.00015 | Best Energy -166.04375 | Acceptance Rate 0.253
+Iter  59000 | Temp 0.01997 | Step size 0.00015 | Best Energy -166.10450 | Acceptance Rate 0.272
+Iter  60000 | Temp 0.01797 | Step size 0.00015 | Best Energy -166.16367 | Acceptance Rate 0.259
+Iter  61000 | Temp 0.01617 | Step size 0.00015 | Best Energy -166.22627 | Acceptance Rate 0.256
+Iter  62000 | Temp 0.01456 | Step size 0.00015 | Best Energy -166.31179 | Acceptance Rate 0.309
+Iter  63000 | Temp 0.01310 | Step size 0.00015 | Best Energy -166.39250 | Acceptance Rate 0.289
+Iter  64000 | Temp 0.01179 | Step size 0.00015 | Best Energy -166.48153 | Acceptance Rate 0.308
+Iter  65000 | Temp 0.01061 | Step size 0.00015 | Best Energy -166.56466 | Acceptance Rate 0.280
+Iter  66000 | Temp 0.00955 | Step size 0.00015 | Best Energy -166.65932 | Acceptance Rate 0.304
+Iter  67000 | Temp 0.00860 | Step size 0.00015 | Best Energy -166.75827 | Acceptance Rate 0.311
+Iter  68000 | Temp 0.00774 | Step size 0.00015 | Best Energy -166.86672 | Acceptance Rate 0.322
+Iter  69000 | Temp 0.00696 | Step size 0.00015 | Best Energy -166.97012 | Acceptance Rate 0.316
+Iter  70000 | Temp 0.00627 | Step size 0.00015 | Best Energy -167.06055 | Acceptance Rate 0.298
+Iter  71000 | Temp 0.00564 | Step size 0.00015 | Best Energy -167.16296 | Acceptance Rate 0.317
+Iter  72000 | Temp 0.00508 | Step size 0.00015 | Best Energy -167.26745 | Acceptance Rate 0.301
+Iter  73000 | Temp 0.00457 | Step size 0.00015 | Best Energy -167.38651 | Acceptance Rate 0.329
+Iter  74000 | Temp 0.00411 | Step size 0.00015 | Best Energy -167.51657 | Acceptance Rate 0.337
+Iter  75000 | Temp 0.00370 | Step size 0.00015 | Best Energy -167.64723 | Acceptance Rate 0.337
+Iter  76000 | Temp 0.00333 | Step size 0.00015 | Best Energy -167.80670 | Acceptance Rate 0.374
+Best energy found: -167.80670
+Optimized Coordinates:
+ [[ 1.51426387 -0.64825279  0.81784248]
+ [-1.31943784  1.1546325  -0.61612144]
+ [-0.79961612  0.57727561  1.12812819]
+ [ 0.18797852  0.9117657   0.80371257]
+ [ 0.43444268  1.85287589  0.30716275]
+ [-0.622098   -0.83078867  0.01921193]
+ [ 1.902795   -0.46880046 -0.21679927]
+ [ 1.17037188  1.04516017  0.40728055]
+ [ 2.1289151   1.32588821  0.00356629]
+ [-1.08291928 -0.01898385 -0.63980325]
+ [ 1.93919822  0.05509926  1.60394888]
+ [-0.32613609  1.64233484 -0.43719233]
+ [-0.18976218 -1.50188883  0.77523274]
+ [ 0.68666255  0.52620226 -1.24821561]
+ [ 1.73601513  1.10563041  1.31746205]
+ [ 0.987899   -0.29996319  2.05545753]
+ [ 0.04686872  0.16011825  1.64010835]
+ [-1.56924705  1.00647075  0.45487004]
+ [ 0.39015538  0.83540788 -0.26785579]
+ [ 1.51883668  2.04339456  0.59371608]
+ [ 1.1257346   1.59765961 -0.53556124]
+ [ 0.48958157 -0.74408631  1.1784277 ]
+ [ 0.02806137 -0.14690861 -0.55445395]
+ [-0.6063983   0.6745047   0.04674126]
+ [-0.38647858  0.73767661 -1.06047344]
+ [-0.03182878 -0.07723663  0.52832242]
+ [ 1.02440474 -0.46098339 -0.87120553]
+ [ 0.78210783  1.65177577  1.32395648]
+ [-0.62763919  1.59890802  0.65143444]
+ [ 1.54718032  0.56384599 -0.54762899]
+ [-0.67267762 -0.58885668  1.20827064]
+ [ 0.99023519  0.26644536  1.12497271]
+ [ 0.49743692 -0.96760883  0.07048842]
+ [-1.30216016 -0.08766772  0.43893397]
+ [ 0.95016987 -0.00562913  0.1115531 ]
+ [-0.1704879   1.25882267  1.75642683]
+ [ 1.95389908  0.33246953  0.5257467 ]
+ [ 0.86177859  0.82143003  2.031283  ]]
+Final Potential Energy: -167.80669652169698
